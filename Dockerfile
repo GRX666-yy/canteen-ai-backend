@@ -2,10 +2,9 @@ FROM python:3.12-slim
 
 WORKDIR /app
 
-# 安装 Python 依赖（去掉 easyocr，用百度 OCR 不需要它）
+# 安装 Python 依赖
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt \
-    && pip uninstall -y easyocr
+RUN pip install --no-cache-dir -r requirements.txt
 
 # 复制应用代码
 COPY main.py nutrition.json ./
