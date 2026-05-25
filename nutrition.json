@@ -1,0 +1,7030 @@
+{
+  "红烧肉": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 32,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "回锅肉": {
+    "calories": 320,
+    "protein": 20,
+    "fat": 24,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "糖醋里脊": {
+    "calories": 340,
+    "protein": 22,
+    "fat": 20,
+    "carbs": 20,
+    "unit": "份(200g)"
+  },
+  "鱼香肉丝": {
+    "calories": 260,
+    "protein": 20,
+    "fat": 17,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "青椒肉丝": {
+    "calories": 220,
+    "protein": 22,
+    "fat": 14,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "小炒肉": {
+    "calories": 300,
+    "protein": 22,
+    "fat": 22,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "木须肉": {
+    "calories": 240,
+    "protein": 18,
+    "fat": 14,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "京酱肉丝": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 16,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "蒜苗炒肉": {
+    "calories": 260,
+    "protein": 20,
+    "fat": 16,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "鱼香茄子": {
+    "calories": 170,
+    "protein": 4,
+    "fat": 14,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "蚂蚁上树": {
+    "calories": 240,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 30,
+    "unit": "份(200g)"
+  },
+  "粉蒸肉": {
+    "calories": 400,
+    "protein": 18,
+    "fat": 30,
+    "carbs": 15,
+    "unit": "份(200g)"
+  },
+  "梅菜扣肉": {
+    "calories": 450,
+    "protein": 16,
+    "fat": 36,
+    "carbs": 18,
+    "unit": "份(200g)"
+  },
+  "东坡肉": {
+    "calories": 420,
+    "protein": 14,
+    "fat": 36,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "红烧排骨": {
+    "calories": 350,
+    "protein": 22,
+    "fat": 28,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "糖醋排骨": {
+    "calories": 360,
+    "protein": 20,
+    "fat": 26,
+    "carbs": 14,
+    "unit": "份(200g)"
+  },
+  "粉蒸排骨": {
+    "calories": 350,
+    "protein": 20,
+    "fat": 24,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "排骨炖山药": {
+    "calories": 280,
+    "protein": 20,
+    "fat": 16,
+    "carbs": 12,
+    "unit": "份(250g)"
+  },
+  "可乐鸡翅": {
+    "calories": 300,
+    "protein": 24,
+    "fat": 16,
+    "carbs": 15,
+    "unit": "份(200g,4个)"
+  },
+  "红烧猪蹄": {
+    "calories": 350,
+    "protein": 22,
+    "fat": 26,
+    "carbs": 8,
+    "unit": "份(250g)"
+  },
+  "卤猪蹄": {
+    "calories": 350,
+    "protein": 22,
+    "fat": 26,
+    "carbs": 8,
+    "unit": "份(250g)"
+  },
+  "炸猪排": {
+    "calories": 380,
+    "protein": 26,
+    "fat": 24,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "宫保鸡丁": {
+    "calories": 280,
+    "protein": 25,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "辣子鸡丁": {
+    "calories": 300,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "水煮肉片": {
+    "calories": 350,
+    "protein": 20,
+    "fat": 28,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "毛血旺": {
+    "calories": 380,
+    "protein": 22,
+    "fat": 28,
+    "carbs": 10,
+    "unit": "份(300g)"
+  },
+  "孜然肉片": {
+    "calories": 280,
+    "protein": 24,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "锅包肉": {
+    "calories": 380,
+    "protein": 20,
+    "fat": 24,
+    "carbs": 24,
+    "unit": "份(200g)"
+  },
+  "荔枝肉": {
+    "calories": 340,
+    "protein": 18,
+    "fat": 22,
+    "carbs": 22,
+    "unit": "份(200g)"
+  },
+  "咕咾肉": {
+    "calories": 320,
+    "protein": 16,
+    "fat": 18,
+    "carbs": 24,
+    "unit": "份(200g)"
+  },
+  "叉烧肉": {
+    "calories": 300,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 14,
+    "unit": "份(200g)"
+  },
+  "脆皮五花肉": {
+    "calories": 450,
+    "protein": 20,
+    "fat": 36,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "肉末茄子": {
+    "calories": 260,
+    "protein": 14,
+    "fat": 18,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "肉末粉丝": {
+    "calories": 220,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 28,
+    "unit": "份(200g)"
+  },
+  "蒜香排骨": {
+    "calories": 340,
+    "protein": 22,
+    "fat": 24,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "土豆烧牛肉": {
+    "calories": 300,
+    "protein": 24,
+    "fat": 16,
+    "carbs": 18,
+    "unit": "份(200g)"
+  },
+  "番茄牛腩": {
+    "calories": 280,
+    "protein": 24,
+    "fat": 14,
+    "carbs": 14,
+    "unit": "份(250g)"
+  },
+  "红烧牛肉": {
+    "calories": 320,
+    "protein": 26,
+    "fat": 16,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "铁板牛肉": {
+    "calories": 350,
+    "protein": 28,
+    "fat": 20,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "水煮牛肉": {
+    "calories": 340,
+    "protein": 26,
+    "fat": 22,
+    "carbs": 8,
+    "unit": "份(250g)"
+  },
+  "黑椒牛柳": {
+    "calories": 280,
+    "protein": 28,
+    "fat": 16,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "蚝油牛肉": {
+    "calories": 260,
+    "protein": 26,
+    "fat": 14,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "葱爆牛肉": {
+    "calories": 270,
+    "protein": 28,
+    "fat": 16,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "干煸牛肉": {
+    "calories": 300,
+    "protein": 24,
+    "fat": 20,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "咖喱牛肉": {
+    "calories": 320,
+    "protein": 24,
+    "fat": 18,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "牛肉炖土豆": {
+    "calories": 300,
+    "protein": 22,
+    "fat": 14,
+    "carbs": 20,
+    "unit": "份(250g)"
+  },
+  "萝卜炖牛腩": {
+    "calories": 260,
+    "protein": 24,
+    "fat": 12,
+    "carbs": 12,
+    "unit": "份(250g)"
+  },
+  "小炒黄牛肉": {
+    "calories": 280,
+    "protein": 28,
+    "fat": 16,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "凉拌牛肉": {
+    "calories": 220,
+    "protein": 24,
+    "fat": 12,
+    "carbs": 6,
+    "unit": "份(150g)"
+  },
+  "酱牛肉": {
+    "calories": 200,
+    "protein": 30,
+    "fat": 8,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "卤牛肉": {
+    "calories": 180,
+    "protein": 28,
+    "fat": 6,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "牛肉干": {
+    "calories": 250,
+    "protein": 34,
+    "fat": 10,
+    "carbs": 10,
+    "unit": "份(100g)"
+  },
+  "肥牛卷": {
+    "calories": 300,
+    "protein": 20,
+    "fat": 24,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "牛腩": {
+    "calories": 280,
+    "protein": 24,
+    "fat": 18,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "牛腱子": {
+    "calories": 200,
+    "protein": 30,
+    "fat": 8,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "牛肚": {
+    "calories": 150,
+    "protein": 20,
+    "fat": 6,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "牛百叶": {
+    "calories": 90,
+    "protein": 16,
+    "fat": 2,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "牛舌": {
+    "calories": 220,
+    "protein": 22,
+    "fat": 14,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "牛尾汤": {
+    "calories": 250,
+    "protein": 24,
+    "fat": 14,
+    "carbs": 8,
+    "unit": "碗(300g)"
+  },
+  "西湖牛肉羹": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "碗(250g)"
+  },
+  "孜然羊肉": {
+    "calories": 320,
+    "protein": 26,
+    "fat": 20,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "葱爆羊肉": {
+    "calories": 300,
+    "protein": 28,
+    "fat": 18,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "手抓羊肉": {
+    "calories": 350,
+    "protein": 30,
+    "fat": 24,
+    "carbs": 2,
+    "unit": "份(250g)"
+  },
+  "红烧羊肉": {
+    "calories": 340,
+    "protein": 26,
+    "fat": 22,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "羊肉炖萝卜": {
+    "calories": 280,
+    "protein": 24,
+    "fat": 16,
+    "carbs": 10,
+    "unit": "份(250g)"
+  },
+  "烤羊排": {
+    "calories": 450,
+    "protein": 30,
+    "fat": 34,
+    "carbs": 4,
+    "unit": "份(250g)"
+  },
+  "烤羊肉串": {
+    "calories": 200,
+    "protein": 22,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(3串)"
+  },
+  "羊肉片": {
+    "calories": 250,
+    "protein": 22,
+    "fat": 16,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "羊杂汤": {
+    "calories": 180,
+    "protein": 16,
+    "fat": 12,
+    "carbs": 4,
+    "unit": "碗(300g)"
+  },
+  "羊肉汤": {
+    "calories": 200,
+    "protein": 18,
+    "fat": 12,
+    "carbs": 6,
+    "unit": "碗(300g)"
+  },
+  "白切羊肉": {
+    "calories": 220,
+    "protein": 24,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "涮羊肉片": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 20,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "黄焖鸡": {
+    "calories": 320,
+    "protein": 28,
+    "fat": 16,
+    "carbs": 12,
+    "unit": "份(250g)"
+  },
+  "咖喱鸡": {
+    "calories": 280,
+    "protein": 24,
+    "fat": 16,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "可乐鸡": {
+    "calories": 300,
+    "protein": 26,
+    "fat": 16,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "白切鸡": {
+    "calories": 250,
+    "protein": 28,
+    "fat": 14,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "盐焗鸡": {
+    "calories": 280,
+    "protein": 30,
+    "fat": 16,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "葱油鸡": {
+    "calories": 260,
+    "protein": 26,
+    "fat": 16,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "口水鸡": {
+    "calories": 300,
+    "protein": 24,
+    "fat": 20,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "麻油鸡": {
+    "calories": 320,
+    "protein": 26,
+    "fat": 22,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "三杯鸡": {
+    "calories": 340,
+    "protein": 28,
+    "fat": 22,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "烤鸡": {
+    "calories": 350,
+    "protein": 32,
+    "fat": 22,
+    "carbs": 6,
+    "unit": "份(250g)"
+  },
+  "炸鸡腿": {
+    "calories": 350,
+    "protein": 24,
+    "fat": 24,
+    "carbs": 12,
+    "unit": "份(2个)"
+  },
+  "卤鸡腿": {
+    "calories": 220,
+    "protein": 26,
+    "fat": 12,
+    "carbs": 4,
+    "unit": "份(2个)"
+  },
+  "奥尔良烤鸡翅": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(4个)"
+  },
+  "鸡米花": {
+    "calories": 320,
+    "protein": 18,
+    "fat": 20,
+    "carbs": 18,
+    "unit": "份(150g)"
+  },
+  "辣子鸡": {
+    "calories": 340,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "宫保虾球": {
+    "calories": 260,
+    "protein": 20,
+    "fat": 14,
+    "carbs": 14,
+    "unit": "份(200g)"
+  },
+  "鸡胸肉": {
+    "calories": 180,
+    "protein": 32,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "鸡腿肉": {
+    "calories": 220,
+    "protein": 28,
+    "fat": 12,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "鸡翅": {
+    "calories": 240,
+    "protein": 22,
+    "fat": 16,
+    "carbs": 2,
+    "unit": "份(4个)"
+  },
+  "鸡爪": {
+    "calories": 150,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "鸡胗": {
+    "calories": 120,
+    "protein": 18,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "鸡心": {
+    "calories": 140,
+    "protein": 16,
+    "fat": 6,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "烤鸭": {
+    "calories": 400,
+    "protein": 24,
+    "fat": 32,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "盐水鸭": {
+    "calories": 280,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "酱鸭": {
+    "calories": 300,
+    "protein": 24,
+    "fat": 20,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "啤酒鸭": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "老鸭汤": {
+    "calories": 220,
+    "protein": 20,
+    "fat": 12,
+    "carbs": 8,
+    "unit": "碗(300g)"
+  },
+  "鸭血": {
+    "calories": 60,
+    "protein": 8,
+    "fat": 2,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "鸭脖": {
+    "calories": 180,
+    "protein": 16,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "鸭翅": {
+    "calories": 160,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "鸭肫": {
+    "calories": 120,
+    "protein": 18,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "北京烤鸭": {
+    "calories": 420,
+    "protein": 22,
+    "fat": 34,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "南京盐水鸭": {
+    "calories": 280,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "柠檬鸭": {
+    "calories": 260,
+    "protein": 24,
+    "fat": 14,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "血鸭": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "清蒸鱼": {
+    "calories": 180,
+    "protein": 28,
+    "fat": 6,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "红烧鱼块": {
+    "calories": 220,
+    "protein": 26,
+    "fat": 10,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "酸菜鱼": {
+    "calories": 200,
+    "protein": 24,
+    "fat": 8,
+    "carbs": 6,
+    "unit": "份(250g)"
+  },
+  "水煮鱼": {
+    "calories": 250,
+    "protein": 28,
+    "fat": 14,
+    "carbs": 4,
+    "unit": "份(250g)"
+  },
+  "糖醋鱼": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 12,
+    "carbs": 20,
+    "unit": "份(200g)"
+  },
+  "剁椒鱼头": {
+    "calories": 220,
+    "protein": 24,
+    "fat": 12,
+    "carbs": 6,
+    "unit": "份(300g)"
+  },
+  "松鼠鳜鱼": {
+    "calories": 320,
+    "protein": 24,
+    "fat": 14,
+    "carbs": 22,
+    "unit": "份(300g)"
+  },
+  "干烧鱼": {
+    "calories": 260,
+    "protein": 26,
+    "fat": 14,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "豆瓣鱼": {
+    "calories": 240,
+    "protein": 24,
+    "fat": 12,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "西湖醋鱼": {
+    "calories": 200,
+    "protein": 28,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "份(250g)"
+  },
+  "烤鱼": {
+    "calories": 350,
+    "protein": 30,
+    "fat": 22,
+    "carbs": 10,
+    "unit": "份(300g)"
+  },
+  "鱼片粥": {
+    "calories": 160,
+    "protein": 12,
+    "fat": 4,
+    "carbs": 20,
+    "unit": "碗(350g)"
+  },
+  "油炸带鱼": {
+    "calories": 280,
+    "protein": 20,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "清蒸鲈鱼": {
+    "calories": 160,
+    "protein": 28,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "红烧带鱼": {
+    "calories": 240,
+    "protein": 22,
+    "fat": 14,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "椒盐鱼排": {
+    "calories": 260,
+    "protein": 20,
+    "fat": 16,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "油焖大虾": {
+    "calories": 240,
+    "protein": 22,
+    "fat": 14,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "白灼虾": {
+    "calories": 140,
+    "protein": 26,
+    "fat": 2,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "椒盐虾": {
+    "calories": 280,
+    "protein": 24,
+    "fat": 18,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "蒜蓉粉丝蒸虾": {
+    "calories": 220,
+    "protein": 20,
+    "fat": 10,
+    "carbs": 14,
+    "unit": "份(200g)"
+  },
+  "香辣虾": {
+    "calories": 300,
+    "protein": 24,
+    "fat": 20,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "清炒虾仁": {
+    "calories": 160,
+    "protein": 24,
+    "fat": 4,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "虾仁滑蛋": {
+    "calories": 200,
+    "protein": 20,
+    "fat": 10,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "蟹粉豆腐": {
+    "calories": 180,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "清蒸螃蟹": {
+    "calories": 140,
+    "protein": 22,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(2只)"
+  },
+  "香辣蟹": {
+    "calories": 280,
+    "protein": 20,
+    "fat": 20,
+    "carbs": 6,
+    "unit": "份(300g)"
+  },
+  "葱姜炒蟹": {
+    "calories": 240,
+    "protein": 22,
+    "fat": 14,
+    "carbs": 6,
+    "unit": "份(300g)"
+  },
+  "鱿鱼": {
+    "calories": 120,
+    "protein": 18,
+    "fat": 4,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "铁板鱿鱼": {
+    "calories": 180,
+    "protein": 16,
+    "fat": 10,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "烤鱿鱼": {
+    "calories": 160,
+    "protein": 18,
+    "fat": 6,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "花甲": {
+    "calories": 80,
+    "protein": 12,
+    "fat": 2,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "炒花蛤": {
+    "calories": 120,
+    "protein": 14,
+    "fat": 4,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "牡蛎/生蚝": {
+    "calories": 80,
+    "protein": 10,
+    "fat": 4,
+    "carbs": 4,
+    "unit": "份(100g,3个)"
+  },
+  "蒜蓉生蚝": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 6,
+    "unit": "份(3个)"
+  },
+  "扇贝": {
+    "calories": 70,
+    "protein": 10,
+    "fat": 2,
+    "carbs": 4,
+    "unit": "份(3个)"
+  },
+  "蒜蓉粉丝扇贝": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 4,
+    "carbs": 12,
+    "unit": "份(3个)"
+  },
+  "鲍鱼": {
+    "calories": 90,
+    "protein": 14,
+    "fat": 2,
+    "carbs": 4,
+    "unit": "份(2个)"
+  },
+  "海参": {
+    "calories": 60,
+    "protein": 14,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "鳗鱼": {
+    "calories": 260,
+    "protein": 18,
+    "fat": 18,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "秋刀鱼": {
+    "calories": 240,
+    "protein": 20,
+    "fat": 16,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "三文鱼": {
+    "calories": 220,
+    "protein": 22,
+    "fat": 14,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "金枪鱼": {
+    "calories": 180,
+    "protein": 26,
+    "fat": 6,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "虾皮": {
+    "calories": 60,
+    "protein": 12,
+    "fat": 1,
+    "carbs": 0,
+    "unit": "份(10g)"
+  },
+  "紫菜": {
+    "calories": 30,
+    "protein": 4,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "份(10g)"
+  },
+  "蒜蓉西兰花": {
+    "calories": 70,
+    "protein": 5,
+    "fat": 3,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "醋溜白菜": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 5,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "干煸豆角": {
+    "calories": 120,
+    "protein": 5,
+    "fat": 8,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "酸辣土豆丝": {
+    "calories": 130,
+    "protein": 3,
+    "fat": 6,
+    "carbs": 18,
+    "unit": "份(200g)"
+  },
+  "红烧茄子": {
+    "calories": 160,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "地三鲜": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 15,
+    "unit": "份(200g)"
+  },
+  "手撕包菜": {
+    "calories": 100,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "干锅花菜": {
+    "calories": 160,
+    "protein": 6,
+    "fat": 10,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "香菇青菜": {
+    "calories": 70,
+    "protein": 4,
+    "fat": 3,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "白灼菜心": {
+    "calories": 60,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "虎皮青椒": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 8,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "清炒小白菜": {
+    "calories": 50,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "蒜蓉空心菜": {
+    "calories": 60,
+    "protein": 3,
+    "fat": 3,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "清炒豆苗": {
+    "calories": 50,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "清炒莴笋": {
+    "calories": 50,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "蒜蓉油麦菜": {
+    "calories": 50,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "蚝油生菜": {
+    "calories": 50,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "清炒菠菜": {
+    "calories": 60,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "蒜蓉菠菜": {
+    "calories": 70,
+    "protein": 4,
+    "fat": 3,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "上汤娃娃菜": {
+    "calories": 80,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "清炒藕片": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 20,
+    "unit": "份(200g)"
+  },
+  "糖醋藕片": {
+    "calories": 140,
+    "protein": 2,
+    "fat": 4,
+    "carbs": 26,
+    "unit": "份(200g)"
+  },
+  "清炒山药": {
+    "calories": 110,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 22,
+    "unit": "份(200g)"
+  },
+  "清炒苦瓜": {
+    "calories": 40,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "豆豉鲮鱼油麦菜": {
+    "calories": 100,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "蒜蓉豆角": {
+    "calories": 90,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "清炒西葫芦": {
+    "calories": 40,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "西红柿炒菜花": {
+    "calories": 70,
+    "protein": 3,
+    "fat": 3,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "清炒菜心": {
+    "calories": 50,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "炝炒圆白菜": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "蒜蓉茼蒿": {
+    "calories": 50,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "清炒荷兰豆": {
+    "calories": 70,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "酸辣藕丁": {
+    "calories": 110,
+    "protein": 2,
+    "fat": 4,
+    "carbs": 18,
+    "unit": "份(200g)"
+  },
+  "干锅土豆片": {
+    "calories": 160,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "孜然土豆片": {
+    "calories": 150,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 18,
+    "unit": "份(200g)"
+  },
+  "土豆片": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 5,
+    "carbs": 18,
+    "unit": "份(200g)"
+  },
+  "青菜": {
+    "calories": 40,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "凉拌黄瓜": {
+    "calories": 40,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "凉拌西红柿": {
+    "calories": 50,
+    "protein": 1,
+    "fat": 1,
+    "carbs": 10,
+    "unit": "份(150g)"
+  },
+  "糖拌西红柿": {
+    "calories": 70,
+    "protein": 1,
+    "fat": 1,
+    "carbs": 16,
+    "unit": "份(150g)"
+  },
+  "拍黄瓜": {
+    "calories": 50,
+    "protein": 2,
+    "fat": 3,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "凉拌木耳": {
+    "calories": 60,
+    "protein": 2,
+    "fat": 3,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "凉拌海带丝": {
+    "calories": 40,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 6,
+    "unit": "份(150g)"
+  },
+  "凉拌豆芽": {
+    "calories": 50,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(150g)"
+  },
+  "凉拌豆腐皮": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "凉拌金针菇": {
+    "calories": 60,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "呛拌土豆丝": {
+    "calories": 100,
+    "protein": 2,
+    "fat": 4,
+    "carbs": 16,
+    "unit": "份(150g)"
+  },
+  "蒜泥茄子": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "麻婆豆腐": {
+    "calories": 180,
+    "protein": 12,
+    "fat": 12,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "家常豆腐": {
+    "calories": 200,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "皮蛋豆腐": {
+    "calories": 160,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "番茄豆腐": {
+    "calories": 140,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "葱烧豆腐": {
+    "calories": 180,
+    "protein": 12,
+    "fat": 12,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "香煎豆腐": {
+    "calories": 200,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "铁板豆腐": {
+    "calories": 220,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "豆腐脑": {
+    "calories": 80,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "千页豆腐": {
+    "calories": 180,
+    "protein": 12,
+    "fat": 12,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "鱼豆腐": {
+    "calories": 160,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "腐竹": {
+    "calories": 180,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 12,
+    "unit": "份(100g)"
+  },
+  "油豆腐": {
+    "calories": 200,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 10,
+    "unit": "份(100g)"
+  },
+  "豆腐干": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "香干": {
+    "calories": 140,
+    "protein": 12,
+    "fat": 8,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "素鸡": {
+    "calories": 150,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 10,
+    "unit": "份(100g)"
+  },
+  "豆泡": {
+    "calories": 180,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "豆皮": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "豆腐丝": {
+    "calories": 110,
+    "protein": 10,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "毛豆腐": {
+    "calories": 140,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "臭豆腐": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 14,
+    "carbs": 12,
+    "unit": "份(150g)"
+  },
+  "长沙臭豆腐": {
+    "calories": 220,
+    "protein": 8,
+    "fat": 16,
+    "carbs": 14,
+    "unit": "份(150g)"
+  },
+  "日本豆腐": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 12,
+    "unit": "份(150g)"
+  },
+  "冻豆腐": {
+    "calories": 100,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 6,
+    "unit": "份(150g)"
+  },
+  "老豆腐": {
+    "calories": 90,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "嫩豆腐": {
+    "calories": 80,
+    "protein": 7,
+    "fat": 3,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "西红柿炒鸡蛋": {
+    "calories": 150,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "韭菜鸡蛋": {
+    "calories": 140,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "蒸蛋羹": {
+    "calories": 100,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 3,
+    "unit": "份(150g)"
+  },
+  "煎蛋": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 2,
+    "unit": "份(2个)"
+  },
+  "水煮蛋": {
+    "calories": 70,
+    "protein": 7,
+    "fat": 4,
+    "carbs": 1,
+    "unit": "个"
+  },
+  "茶叶蛋": {
+    "calories": 80,
+    "protein": 7,
+    "fat": 5,
+    "carbs": 2,
+    "unit": "个"
+  },
+  "卤蛋": {
+    "calories": 80,
+    "protein": 6,
+    "fat": 5,
+    "carbs": 2,
+    "unit": "个"
+  },
+  "功夫卤蛋": {
+    "calories": 80,
+    "protein": 6,
+    "fat": 5,
+    "carbs": 2,
+    "unit": "个"
+  },
+  "鸡蛋羹": {
+    "calories": 90,
+    "protein": 7,
+    "fat": 5,
+    "carbs": 3,
+    "unit": "碗(150g)"
+  },
+  "番茄炒蛋": {
+    "calories": 150,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "葱花炒蛋": {
+    "calories": 140,
+    "protein": 9,
+    "fat": 10,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "蛋花汤": {
+    "calories": 40,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 2,
+    "unit": "碗(250g)"
+  },
+  "紫菜蛋花汤": {
+    "calories": 50,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "西红柿蛋汤": {
+    "calories": 60,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "皮蛋瘦肉粥": {
+    "calories": 180,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 22,
+    "unit": "碗(350g)"
+  },
+  "咸鸭蛋": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 2,
+    "unit": "个"
+  },
+  "松花蛋": {
+    "calories": 100,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 2,
+    "unit": "个"
+  },
+  "炒鸡蛋": {
+    "calories": 160,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "滑蛋": {
+    "calories": 140,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "排骨汤": {
+    "calories": 180,
+    "protein": 18,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "碗(300g)"
+  },
+  "冬瓜排骨汤": {
+    "calories": 150,
+    "protein": 16,
+    "fat": 6,
+    "carbs": 8,
+    "unit": "碗(300g)"
+  },
+  "玉米排骨汤": {
+    "calories": 200,
+    "protein": 16,
+    "fat": 8,
+    "carbs": 18,
+    "unit": "碗(300g)"
+  },
+  "莲藕排骨汤": {
+    "calories": 180,
+    "protein": 16,
+    "fat": 8,
+    "carbs": 14,
+    "unit": "碗(300g)"
+  },
+  "海带排骨汤": {
+    "calories": 160,
+    "protein": 16,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "碗(300g)"
+  },
+  "萝卜排骨汤": {
+    "calories": 150,
+    "protein": 14,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "碗(300g)"
+  },
+  "酸辣汤": {
+    "calories": 80,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "碗(250g)"
+  },
+  "西红柿蛋花汤": {
+    "calories": 60,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "豆腐汤": {
+    "calories": 60,
+    "protein": 5,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "蔬菜汤": {
+    "calories": 30,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 4,
+    "unit": "碗(250g)"
+  },
+  "玉米浓汤": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 14,
+    "unit": "碗(250g)"
+  },
+  "南瓜浓汤": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 16,
+    "unit": "碗(250g)"
+  },
+  "罗宋汤": {
+    "calories": 100,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 12,
+    "unit": "碗(250g)"
+  },
+  "奶油蘑菇汤": {
+    "calories": 150,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 8,
+    "unit": "碗(250g)"
+  },
+  "番茄牛肉汤": {
+    "calories": 140,
+    "protein": 12,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "碗(300g)"
+  },
+  "牛肉汤": {
+    "calories": 160,
+    "protein": 16,
+    "fat": 8,
+    "carbs": 6,
+    "unit": "碗(300g)"
+  },
+  "鸡汤": {
+    "calories": 120,
+    "protein": 14,
+    "fat": 6,
+    "carbs": 4,
+    "unit": "碗(300g)"
+  },
+  "鱼汤": {
+    "calories": 100,
+    "protein": 14,
+    "fat": 4,
+    "carbs": 4,
+    "unit": "碗(300g)"
+  },
+  "味噌汤": {
+    "calories": 40,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 4,
+    "unit": "碗(250g)"
+  },
+  "绿豆汤": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 0,
+    "carbs": 18,
+    "unit": "碗(250g)"
+  },
+  "红豆汤": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 1,
+    "carbs": 24,
+    "unit": "碗(250g)"
+  },
+  "银耳汤": {
+    "calories": 80,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 18,
+    "unit": "碗(250g)"
+  },
+  "冰糖雪梨": {
+    "calories": 100,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 24,
+    "unit": "碗(250g)"
+  },
+  "酸梅汤": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "杯(300ml)"
+  },
+  "白粥": {
+    "calories": 80,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 18,
+    "unit": "碗(300g)"
+  },
+  "小米粥": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 20,
+    "unit": "碗(300g)"
+  },
+  "南瓜粥": {
+    "calories": 110,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 22,
+    "unit": "碗(300g)"
+  },
+  "八宝粥": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 3,
+    "carbs": 38,
+    "unit": "碗(350g)"
+  },
+  "黑米粥": {
+    "calories": 150,
+    "protein": 4,
+    "fat": 1,
+    "carbs": 30,
+    "unit": "碗(300g)"
+  },
+  "绿豆粥": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 1,
+    "carbs": 24,
+    "unit": "碗(300g)"
+  },
+  "红豆粥": {
+    "calories": 140,
+    "protein": 5,
+    "fat": 1,
+    "carbs": 28,
+    "unit": "碗(300g)"
+  },
+  "红薯粥": {
+    "calories": 130,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 28,
+    "unit": "碗(300g)"
+  },
+  "玉米粥": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 20,
+    "unit": "碗(300g)"
+  },
+  "燕麦粥": {
+    "calories": 120,
+    "protein": 5,
+    "fat": 2,
+    "carbs": 22,
+    "unit": "碗(300g)"
+  },
+  "紫薯粥": {
+    "calories": 130,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 28,
+    "unit": "碗(300g)"
+  },
+  "菜粥": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 14,
+    "unit": "碗(300g)"
+  },
+  "瘦肉粥": {
+    "calories": 150,
+    "protein": 10,
+    "fat": 4,
+    "carbs": 20,
+    "unit": "碗(350g)"
+  },
+  "香菇鸡肉粥": {
+    "calories": 160,
+    "protein": 12,
+    "fat": 4,
+    "carbs": 20,
+    "unit": "碗(350g)"
+  },
+  "腊八粥": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 36,
+    "unit": "碗(350g)"
+  },
+  "艇仔粥": {
+    "calories": 180,
+    "protein": 12,
+    "fat": 6,
+    "carbs": 22,
+    "unit": "碗(350g)"
+  },
+  "及第粥": {
+    "calories": 190,
+    "protein": 14,
+    "fat": 6,
+    "carbs": 22,
+    "unit": "碗(350g)"
+  },
+  "状元及第粥": {
+    "calories": 200,
+    "protein": 15,
+    "fat": 6,
+    "carbs": 24,
+    "unit": "碗(350g)"
+  },
+  "蛋炒饭": {
+    "calories": 400,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 55,
+    "unit": "份(300g)"
+  },
+  "米饭": {
+    "calories": 260,
+    "protein": 6,
+    "fat": 1,
+    "carbs": 58,
+    "unit": "碗(200g)"
+  },
+  "糙米饭": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 2,
+    "carbs": 46,
+    "unit": "碗(200g)"
+  },
+  "杂粮饭": {
+    "calories": 240,
+    "protein": 6,
+    "fat": 3,
+    "carbs": 48,
+    "unit": "碗(200g)"
+  },
+  "紫米饭": {
+    "calories": 250,
+    "protein": 6,
+    "fat": 2,
+    "carbs": 54,
+    "unit": "碗(200g)"
+  },
+  "扬州炒饭": {
+    "calories": 450,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 58,
+    "unit": "份(350g)"
+  },
+  "火腿炒饭": {
+    "calories": 420,
+    "protein": 14,
+    "fat": 14,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "酱油炒饭": {
+    "calories": 380,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 62,
+    "unit": "份(300g)"
+  },
+  "牛肉炒饭": {
+    "calories": 460,
+    "protein": 20,
+    "fat": 16,
+    "carbs": 54,
+    "unit": "份(350g)"
+  },
+  "虾仁炒饭": {
+    "calories": 420,
+    "protein": 18,
+    "fat": 12,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "腊肠炒饭": {
+    "calories": 440,
+    "protein": 14,
+    "fat": 18,
+    "carbs": 54,
+    "unit": "份(350g)"
+  },
+  "菠萝炒饭": {
+    "calories": 380,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 60,
+    "unit": "份(350g)"
+  },
+  "咖喱炒饭": {
+    "calories": 420,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 58,
+    "unit": "份(350g)"
+  },
+  "泡菜炒饭": {
+    "calories": 380,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 54,
+    "unit": "份(350g)"
+  },
+  "日式炒饭": {
+    "calories": 400,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "海鲜炒饭": {
+    "calories": 420,
+    "protein": 16,
+    "fat": 12,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "番茄炒饭": {
+    "calories": 380,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 58,
+    "unit": "份(350g)"
+  },
+  "竹筒饭": {
+    "calories": 350,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 66,
+    "unit": "份(300g)"
+  },
+  "手抓饭": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 14,
+    "carbs": 54,
+    "unit": "份(350g)"
+  },
+  "煲仔饭": {
+    "calories": 500,
+    "protein": 18,
+    "fat": 20,
+    "carbs": 60,
+    "unit": "份(400g)"
+  },
+  "红烧牛腩饭": {
+    "calories": 580,
+    "protein": 30,
+    "fat": 22,
+    "carbs": 64,
+    "unit": "份(500g)"
+  },
+  "宫保鸡丁饭": {
+    "calories": 520,
+    "protein": 28,
+    "fat": 20,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "鱼香肉丝饭": {
+    "calories": 500,
+    "protein": 24,
+    "fat": 18,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "番茄炒蛋饭": {
+    "calories": 450,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 66,
+    "unit": "份(500g)"
+  },
+  "麻婆豆腐饭": {
+    "calories": 460,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 64,
+    "unit": "份(500g)"
+  },
+  "黄焖鸡米饭": {
+    "calories": 560,
+    "protein": 32,
+    "fat": 18,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "回锅肉饭": {
+    "calories": 540,
+    "protein": 24,
+    "fat": 24,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "红烧肉饭": {
+    "calories": 580,
+    "protein": 22,
+    "fat": 30,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "辣子鸡丁饭": {
+    "calories": 540,
+    "protein": 28,
+    "fat": 22,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "咖喱鸡肉饭": {
+    "calories": 520,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "土豆牛肉饭": {
+    "calories": 540,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "糖醋里脊饭": {
+    "calories": 560,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "卤肉饭": {
+    "calories": 580,
+    "protein": 22,
+    "fat": 28,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "鸡排饭": {
+    "calories": 560,
+    "protein": 30,
+    "fat": 22,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "猪排饭": {
+    "calories": 580,
+    "protein": 28,
+    "fat": 26,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "鳗鱼饭": {
+    "calories": 560,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "亲子丼": {
+    "calories": 520,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "牛丼": {
+    "calories": 540,
+    "protein": 28,
+    "fat": 20,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "照烧鸡腿饭": {
+    "calories": 540,
+    "protein": 28,
+    "fat": 20,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "盐酥鸡饭": {
+    "calories": 540,
+    "protein": 26,
+    "fat": 24,
+    "carbs": 56,
+    "unit": "份(500g)"
+  },
+  "炸鸡腿饭": {
+    "calories": 560,
+    "protein": 28,
+    "fat": 24,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "香肠炒饭": {
+    "calories": 460,
+    "protein": 14,
+    "fat": 18,
+    "carbs": 60,
+    "unit": "份(400g)"
+  },
+  "木须肉饭": {
+    "calories": 500,
+    "protein": 22,
+    "fat": 16,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "地三鲜饭": {
+    "calories": 460,
+    "protein": 10,
+    "fat": 14,
+    "carbs": 68,
+    "unit": "份(500g)"
+  },
+  "牛肉面": {
+    "calories": 450,
+    "protein": 20,
+    "fat": 12,
+    "carbs": 60,
+    "unit": "碗(400g)"
+  },
+  "红烧排骨面": {
+    "calories": 520,
+    "protein": 24,
+    "fat": 30,
+    "carbs": 40,
+    "unit": "碗(450g)"
+  },
+  "红烧牛肉面": {
+    "calories": 480,
+    "protein": 28,
+    "fat": 18,
+    "carbs": 42,
+    "unit": "碗(450g)"
+  },
+  "红烧牛腩面": {
+    "calories": 500,
+    "protein": 28,
+    "fat": 18,
+    "carbs": 42,
+    "unit": "碗(450g)"
+  },
+  "辣椒炒肉面": {
+    "calories": 450,
+    "protein": 24,
+    "fat": 20,
+    "carbs": 42,
+    "unit": "碗(450g)"
+  },
+  "辣椒炒肉粉": {
+    "calories": 440,
+    "protein": 23,
+    "fat": 19,
+    "carbs": 42,
+    "unit": "碗(450g)"
+  },
+  "木耳肉丝面": {
+    "calories": 380,
+    "protein": 16,
+    "fat": 12,
+    "carbs": 48,
+    "unit": "碗(400g)"
+  },
+  "木耳肉丝粉": {
+    "calories": 370,
+    "protein": 15,
+    "fat": 11,
+    "carbs": 48,
+    "unit": "碗(400g)"
+  },
+  "炸酱面": {
+    "calories": 420,
+    "protein": 16,
+    "fat": 16,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "杂酱面": {
+    "calories": 420,
+    "protein": 16,
+    "fat": 16,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "猪油拌粉": {
+    "calories": 380,
+    "protein": 8,
+    "fat": 14,
+    "carbs": 52,
+    "unit": "碗(350g)"
+  },
+  "卤粉": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 55,
+    "unit": "碗(400g)"
+  },
+  "杂酱卤粉": {
+    "calories": 420,
+    "protein": 16,
+    "fat": 16,
+    "carbs": 52,
+    "unit": "碗(400g)"
+  },
+  "酸辣粉": {
+    "calories": 380,
+    "protein": 10,
+    "fat": 14,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "酸菜面": {
+    "calories": 350,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "酸菜粉": {
+    "calories": 340,
+    "protein": 9,
+    "fat": 9,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "馄饨": {
+    "calories": 300,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 30,
+    "unit": "碗(300g,12个)"
+  },
+  "拌面": {
+    "calories": 380,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 48,
+    "unit": "碗(350g)"
+  },
+  "牛杂面": {
+    "calories": 480,
+    "protein": 24,
+    "fat": 18,
+    "carbs": 44,
+    "unit": "碗(450g)"
+  },
+  "牛肉粉": {
+    "calories": 440,
+    "protein": 20,
+    "fat": 12,
+    "carbs": 60,
+    "unit": "碗(450g)"
+  },
+  "螺蛳粉": {
+    "calories": 450,
+    "protein": 16,
+    "fat": 20,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "热干面": {
+    "calories": 420,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 52,
+    "unit": "碗(350g)"
+  },
+  "凉面": {
+    "calories": 350,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 48,
+    "unit": "碗(350g)"
+  },
+  "担担面": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 46,
+    "unit": "碗(350g)"
+  },
+  "米线": {
+    "calories": 380,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 55,
+    "unit": "碗(400g)"
+  },
+  "排骨面": {
+    "calories": 500,
+    "protein": 22,
+    "fat": 28,
+    "carbs": 40,
+    "unit": "碗(450g)"
+  },
+  "阳春面": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 48,
+    "unit": "碗(350g)"
+  },
+  "葱油拌面": {
+    "calories": 360,
+    "protein": 8,
+    "fat": 16,
+    "carbs": 46,
+    "unit": "碗(350g)"
+  },
+  "葱油面": {
+    "calories": 360,
+    "protein": 8,
+    "fat": 16,
+    "carbs": 46,
+    "unit": "碗(350g)"
+  },
+  "臊子面": {
+    "calories": 420,
+    "protein": 16,
+    "fat": 18,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "油泼面": {
+    "calories": 440,
+    "protein": 12,
+    "fat": 18,
+    "carbs": 56,
+    "unit": "碗(400g)"
+  },
+  "biangbiang面": {
+    "calories": 460,
+    "protein": 14,
+    "fat": 18,
+    "carbs": 58,
+    "unit": "碗(400g)"
+  },
+  "刀削面": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 58,
+    "unit": "碗(400g)"
+  },
+  "拉面": {
+    "calories": 380,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 56,
+    "unit": "碗(400g)"
+  },
+  "兰州拉面": {
+    "calories": 400,
+    "protein": 16,
+    "fat": 12,
+    "carbs": 56,
+    "unit": "碗(450g)"
+  },
+  "重庆小面": {
+    "calories": 380,
+    "protein": 12,
+    "fat": 16,
+    "carbs": 48,
+    "unit": "碗(400g)"
+  },
+  "燃面": {
+    "calories": 420,
+    "protein": 14,
+    "fat": 18,
+    "carbs": 52,
+    "unit": "碗(350g)"
+  },
+  "云吞面": {
+    "calories": 320,
+    "protein": 14,
+    "fat": 8,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "车仔面": {
+    "calories": 360,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 48,
+    "unit": "碗(350g)"
+  },
+  "乌冬面": {
+    "calories": 320,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 62,
+    "unit": "碗(400g)"
+  },
+  "荞麦面": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 4,
+    "carbs": 52,
+    "unit": "碗(350g)"
+  },
+  "意大利面/意面": {
+    "calories": 350,
+    "protein": 12,
+    "fat": 8,
+    "carbs": 58,
+    "unit": "份(350g)"
+  },
+  "番茄意面": {
+    "calories": 360,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 60,
+    "unit": "份(350g)"
+  },
+  "肉酱意面": {
+    "calories": 420,
+    "protein": 18,
+    "fat": 14,
+    "carbs": 54,
+    "unit": "份(400g)"
+  },
+  "奶油意面": {
+    "calories": 460,
+    "protein": 12,
+    "fat": 22,
+    "carbs": 54,
+    "unit": "份(400g)"
+  },
+  "黑椒牛柳意面": {
+    "calories": 440,
+    "protein": 22,
+    "fat": 16,
+    "carbs": 50,
+    "unit": "份(400g)"
+  },
+  "海鲜意面": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 10,
+    "carbs": 52,
+    "unit": "份(400g)"
+  },
+  "通心粉": {
+    "calories": 320,
+    "protein": 12,
+    "fat": 6,
+    "carbs": 58,
+    "unit": "份(350g)"
+  },
+  "炒河粉": {
+    "calories": 400,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "干炒牛河": {
+    "calories": 480,
+    "protein": 20,
+    "fat": 18,
+    "carbs": 56,
+    "unit": "份(400g)"
+  },
+  "湿炒牛河": {
+    "calories": 460,
+    "protein": 18,
+    "fat": 16,
+    "carbs": 56,
+    "unit": "份(400g)"
+  },
+  "炒米粉": {
+    "calories": 380,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "星洲炒米粉": {
+    "calories": 420,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 54,
+    "unit": "份(350g)"
+  },
+  "炒面": {
+    "calories": 400,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "两面黄": {
+    "calories": 420,
+    "protein": 12,
+    "fat": 16,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "粉丝": {
+    "calories": 200,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 46,
+    "unit": "份(200g)"
+  },
+  "牛肉包": {
+    "calories": 180,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 22,
+    "unit": "个"
+  },
+  "鲜肉包": {
+    "calories": 160,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 18,
+    "unit": "个"
+  },
+  "肉沫粉丝包": {
+    "calories": 150,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 20,
+    "unit": "个"
+  },
+  "雪菜肉丝包": {
+    "calories": 140,
+    "protein": 6,
+    "fat": 5,
+    "carbs": 18,
+    "unit": "个"
+  },
+  "梅干菜肉包": {
+    "calories": 150,
+    "protein": 7,
+    "fat": 7,
+    "carbs": 18,
+    "unit": "个"
+  },
+  "香菇青菜包": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 18,
+    "unit": "个"
+  },
+  "玫瑰豆沙包": {
+    "calories": 160,
+    "protein": 5,
+    "fat": 3,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "鱼香肉丝包": {
+    "calories": 170,
+    "protein": 8,
+    "fat": 7,
+    "carbs": 20,
+    "unit": "个"
+  },
+  "三鲜包": {
+    "calories": 150,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 18,
+    "unit": "个"
+  },
+  "小笼包": {
+    "calories": 250,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 22,
+    "unit": "笼(6个)"
+  },
+  "灌汤包": {
+    "calories": 280,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 24,
+    "unit": "笼(6个)"
+  },
+  "生煎包": {
+    "calories": 220,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 22,
+    "unit": "份(4个)"
+  },
+  "煎包": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 20,
+    "unit": "份(4个)"
+  },
+  "叉烧包": {
+    "calories": 200,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 24,
+    "unit": "个"
+  },
+  "奶黄包": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 26,
+    "unit": "个"
+  },
+  "流沙包": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "豆沙包": {
+    "calories": 160,
+    "protein": 5,
+    "fat": 3,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "莲蓉包": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 32,
+    "unit": "个"
+  },
+  "芝麻包": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "菜包": {
+    "calories": 110,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 20,
+    "unit": "个"
+  },
+  "肉包": {
+    "calories": 160,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 18,
+    "unit": "个"
+  },
+  "饺子": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 14,
+    "carbs": 45,
+    "unit": "份(250g,12个)"
+  },
+  "蒸饺": {
+    "calories": 200,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 24,
+    "unit": "份(6个)"
+  },
+  "煎饺": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 28,
+    "unit": "份(8个)"
+  },
+  "水饺": {
+    "calories": 300,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 36,
+    "unit": "份(12个)"
+  },
+  "锅贴": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 28,
+    "unit": "份(8个)"
+  },
+  "抄手": {
+    "calories": 350,
+    "protein": 16,
+    "fat": 16,
+    "carbs": 34,
+    "unit": "碗(300g,12个)"
+  },
+  "红油抄手": {
+    "calories": 380,
+    "protein": 16,
+    "fat": 20,
+    "carbs": 34,
+    "unit": "碗(300g)"
+  },
+  "云吞": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 34,
+    "unit": "碗(12个)"
+  },
+  "煎饼": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 38,
+    "unit": "个"
+  },
+  "葱油饼": {
+    "calories": 260,
+    "protein": 6,
+    "fat": 12,
+    "carbs": 32,
+    "unit": "个"
+  },
+  "手抓饼": {
+    "calories": 300,
+    "protein": 8,
+    "fat": 16,
+    "carbs": 32,
+    "unit": "个"
+  },
+  "鸡蛋灌饼": {
+    "calories": 320,
+    "protein": 10,
+    "fat": 18,
+    "carbs": 32,
+    "unit": "个"
+  },
+  "煎饼果子": {
+    "calories": 350,
+    "protein": 12,
+    "fat": 16,
+    "carbs": 40,
+    "unit": "个"
+  },
+  "酱香饼": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 12,
+    "carbs": 36,
+    "unit": "份(200g)"
+  },
+  "千层饼": {
+    "calories": 300,
+    "protein": 8,
+    "fat": 14,
+    "carbs": 36,
+    "unit": "份(200g)"
+  },
+  "发面饼": {
+    "calories": 240,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 42,
+    "unit": "份(200g)"
+  },
+  "烧饼": {
+    "calories": 250,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 38,
+    "unit": "个"
+  },
+  "芝麻烧饼": {
+    "calories": 260,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 36,
+    "unit": "个"
+  },
+  "酥饼": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 34,
+    "unit": "个"
+  },
+  "肉夹馍": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 12,
+    "carbs": 32,
+    "unit": "个"
+  },
+  "菜夹馍": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 32,
+    "unit": "个"
+  },
+  "鸡蛋夹馍": {
+    "calories": 260,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 32,
+    "unit": "个"
+  },
+  "驴肉火烧": {
+    "calories": 280,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 24,
+    "unit": "个"
+  },
+  "肉火烧": {
+    "calories": 260,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 24,
+    "unit": "个"
+  },
+  "馅饼": {
+    "calories": 240,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "韭菜盒子": {
+    "calories": 220,
+    "protein": 8,
+    "fat": 12,
+    "carbs": 24,
+    "unit": "个"
+  },
+  "春饼": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 32,
+    "unit": "份(3张)"
+  },
+  "卷饼": {
+    "calories": 280,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 34,
+    "unit": "个"
+  },
+  "馒头": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 1,
+    "carbs": 25,
+    "unit": "个"
+  },
+  "花卷": {
+    "calories": 130,
+    "protein": 5,
+    "fat": 2,
+    "carbs": 24,
+    "unit": "个"
+  },
+  "窝窝头": {
+    "calories": 110,
+    "protein": 4,
+    "fat": 1,
+    "carbs": 22,
+    "unit": "个"
+  },
+  "发糕": {
+    "calories": 140,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 28,
+    "unit": "块"
+  },
+  "玉米发糕": {
+    "calories": 130,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 26,
+    "unit": "块"
+  },
+  "小米发糕": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 26,
+    "unit": "块"
+  },
+  "红糖发糕": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 32,
+    "unit": "块"
+  },
+  "马拉糕": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 28,
+    "unit": "块"
+  },
+  "千层糕": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 28,
+    "unit": "块"
+  },
+  "红豆糕": {
+    "calories": 180,
+    "protein": 5,
+    "fat": 4,
+    "carbs": 32,
+    "unit": "块"
+  },
+  "绿豆糕": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 32,
+    "unit": "块"
+  },
+  "桂花糕": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 30,
+    "unit": "块"
+  },
+  "米糕": {
+    "calories": 140,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 28,
+    "unit": "块"
+  },
+  "糯米糕": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 38,
+    "unit": "块"
+  },
+  "糍粑": {
+    "calories": 250,
+    "protein": 5,
+    "fat": 8,
+    "carbs": 38,
+    "unit": "份(3个)"
+  },
+  "糯米糍": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "青团": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 36,
+    "unit": "个"
+  },
+  "艾叶粑粑": {
+    "calories": 180,
+    "protein": 5,
+    "fat": 4,
+    "carbs": 32,
+    "unit": "个"
+  },
+  "油条": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 12,
+    "carbs": 20,
+    "unit": "根"
+  },
+  "豆浆": {
+    "calories": 90,
+    "protein": 6,
+    "fat": 3,
+    "carbs": 10,
+    "unit": "杯(300ml)"
+  },
+  "豆浆配油条": {
+    "calories": 290,
+    "protein": 12,
+    "fat": 15,
+    "carbs": 30,
+    "unit": "套"
+  },
+  "烧卖": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 22,
+    "unit": "份(4个)"
+  },
+  "肠粉": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 30,
+    "unit": "份(250g)"
+  },
+  "鸡蛋肠粉": {
+    "calories": 240,
+    "protein": 12,
+    "fat": 8,
+    "carbs": 28,
+    "unit": "份(300g)"
+  },
+  "肉肠粉": {
+    "calories": 260,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 28,
+    "unit": "份(300g)"
+  },
+  "虾肠粉": {
+    "calories": 220,
+    "protein": 14,
+    "fat": 6,
+    "carbs": 28,
+    "unit": "份(300g)"
+  },
+  "糯米鸡": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 36,
+    "unit": "个"
+  },
+  "粽子": {
+    "calories": 300,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 48,
+    "unit": "个"
+  },
+  "肉粽": {
+    "calories": 350,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 46,
+    "unit": "个"
+  },
+  "豆沙粽": {
+    "calories": 300,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 54,
+    "unit": "个"
+  },
+  "蛋黄肉粽": {
+    "calories": 380,
+    "protein": 16,
+    "fat": 16,
+    "carbs": 44,
+    "unit": "个"
+  },
+  "荷包蛋": {
+    "calories": 100,
+    "protein": 7,
+    "fat": 7,
+    "carbs": 2,
+    "unit": "个"
+  },
+  "太阳蛋": {
+    "calories": 80,
+    "protein": 7,
+    "fat": 6,
+    "carbs": 1,
+    "unit": "个"
+  },
+  "炒蛋": {
+    "calories": 160,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "吐司": {
+    "calories": 140,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 26,
+    "unit": "片(2片)"
+  },
+  "全麦面包": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 22,
+    "unit": "片(2片)"
+  },
+  "牛角包/可颂": {
+    "calories": 240,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 24,
+    "unit": "个"
+  },
+  "三明治": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 34,
+    "unit": "份"
+  },
+  "火腿三明治": {
+    "calories": 320,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 34,
+    "unit": "份"
+  },
+  "鸡蛋三明治": {
+    "calories": 300,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 34,
+    "unit": "份"
+  },
+  "玉米": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 2,
+    "carbs": 38,
+    "unit": "根"
+  },
+  "煮玉米": {
+    "calories": 160,
+    "protein": 5,
+    "fat": 2,
+    "carbs": 34,
+    "unit": "根"
+  },
+  "红薯/烤红薯": {
+    "calories": 200,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 46,
+    "unit": "个(250g)"
+  },
+  "紫薯": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 1,
+    "carbs": 38,
+    "unit": "个(200g)"
+  },
+  "山药": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 20,
+    "unit": "份(150g)"
+  },
+  "芋头": {
+    "calories": 140,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 30,
+    "unit": "份(150g)"
+  },
+  "土豆": {
+    "calories": 160,
+    "protein": 4,
+    "fat": 0,
+    "carbs": 36,
+    "unit": "个(200g)"
+  },
+  "凉拌粉丝": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 24,
+    "unit": "份(150g)"
+  },
+  "凉拌藕片": {
+    "calories": 90,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 16,
+    "unit": "份(150g)"
+  },
+  "凉拌西兰花": {
+    "calories": 50,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份(150g)"
+  },
+  "凉拌秋葵": {
+    "calories": 60,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "夫妻肺片": {
+    "calories": 250,
+    "protein": 18,
+    "fat": 18,
+    "carbs": 6,
+    "unit": "份(150g)"
+  },
+  "红油耳丝": {
+    "calories": 220,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "蒜泥白肉": {
+    "calories": 280,
+    "protein": 16,
+    "fat": 22,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "凉皮": {
+    "calories": 300,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 42,
+    "unit": "份(300g)"
+  },
+  "酿皮": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 42,
+    "unit": "份(300g)"
+  },
+  "凉粉": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 24,
+    "unit": "份(200g)"
+  },
+  "春卷": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 12,
+    "carbs": 20,
+    "unit": "份(3个)"
+  },
+  "南瓜饼": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 24,
+    "unit": "份(2个)"
+  },
+  "汤圆": {
+    "calories": 220,
+    "protein": 5,
+    "fat": 6,
+    "carbs": 36,
+    "unit": "碗(6个)"
+  },
+  "炸春卷": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 20,
+    "unit": "份(3个)"
+  },
+  "炸鸡排": {
+    "calories": 350,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 14,
+    "unit": "份(200g)"
+  },
+  "盐酥鸡": {
+    "calories": 320,
+    "protein": 20,
+    "fat": 20,
+    "carbs": 16,
+    "unit": "份(150g)"
+  },
+  "炸鱿鱼圈": {
+    "calories": 280,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 20,
+    "unit": "份(150g)"
+  },
+  "炸薯条": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 14,
+    "carbs": 34,
+    "unit": "份(150g)"
+  },
+  "薯片": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 16,
+    "carbs": 32,
+    "unit": "份(100g)"
+  },
+  "爆米花": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 30,
+    "unit": "份(100g)"
+  },
+  "烤肠": {
+    "calories": 200,
+    "protein": 10,
+    "fat": 16,
+    "carbs": 4,
+    "unit": "根"
+  },
+  "热狗": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 16,
+    "carbs": 26,
+    "unit": "个"
+  },
+  "章鱼小丸子": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 26,
+    "unit": "份(6个)"
+  },
+  "关东煮": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "麻辣烫": {
+    "calories": 350,
+    "protein": 16,
+    "fat": 18,
+    "carbs": 32,
+    "unit": "份(400g)"
+  },
+  "冒菜": {
+    "calories": 340,
+    "protein": 16,
+    "fat": 16,
+    "carbs": 32,
+    "unit": "份(400g)"
+  },
+  "炸串": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 18,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "烤面筋": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 16,
+    "unit": "串"
+  },
+  "烤冷面": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 24,
+    "unit": "份"
+  },
+  "豆腐串": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 12,
+    "unit": "串"
+  },
+  "鸡蛋仔": {
+    "calories": 220,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 32,
+    "unit": "份"
+  },
+  "华夫饼": {
+    "calories": 240,
+    "protein": 6,
+    "fat": 10,
+    "carbs": 32,
+    "unit": "份"
+  },
+  "可丽饼": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 34,
+    "unit": "份"
+  },
+  "甜甜圈": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 16,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "麻花": {
+    "calories": 250,
+    "protein": 6,
+    "fat": 12,
+    "carbs": 30,
+    "unit": "根"
+  },
+  "馓子": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 24,
+    "unit": "份(100g)"
+  },
+  "羊肉串": {
+    "calories": 200,
+    "protein": 22,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(3串)"
+  },
+  "牛肉串": {
+    "calories": 180,
+    "protein": 20,
+    "fat": 10,
+    "carbs": 2,
+    "unit": "份(3串)"
+  },
+  "鸡腿": {
+    "calories": 220,
+    "protein": 28,
+    "fat": 12,
+    "carbs": 0,
+    "unit": "个"
+  },
+  "烤鸡翅": {
+    "calories": 260,
+    "protein": 24,
+    "fat": 18,
+    "carbs": 2,
+    "unit": "份(4个)"
+  },
+  "烤鸡腿": {
+    "calories": 240,
+    "protein": 30,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "个"
+  },
+  "烤虾": {
+    "calories": 120,
+    "protein": 24,
+    "fat": 2,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "烤生蚝": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 6,
+    "unit": "份(3个)"
+  },
+  "烤扇贝": {
+    "calories": 100,
+    "protein": 10,
+    "fat": 4,
+    "carbs": 6,
+    "unit": "份(3个)"
+  },
+  "烤茄子": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "烤土豆": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 24,
+    "unit": "个"
+  },
+  "烤玉米": {
+    "calories": 160,
+    "protein": 5,
+    "fat": 2,
+    "carbs": 34,
+    "unit": "根"
+  },
+  "烤馒头": {
+    "calories": 140,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 24,
+    "unit": "串"
+  },
+  "烤豆腐": {
+    "calories": 100,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "串"
+  },
+  "烤韭菜": {
+    "calories": 40,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 4,
+    "unit": "份"
+  },
+  "烤金针菇": {
+    "calories": 50,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 6,
+    "unit": "份"
+  },
+  "烤青椒": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 1,
+    "carbs": 4,
+    "unit": "串"
+  },
+  "烤香菇": {
+    "calories": 40,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 6,
+    "unit": "串"
+  },
+  "烤五花肉": {
+    "calories": 400,
+    "protein": 20,
+    "fat": 34,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "烤猪蹄": {
+    "calories": 350,
+    "protein": 22,
+    "fat": 26,
+    "carbs": 8,
+    "unit": "份(250g)"
+  },
+  "烤鸡胗": {
+    "calories": 120,
+    "protein": 18,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "串(100g)"
+  },
+  "烤鸡心": {
+    "calories": 140,
+    "protein": 16,
+    "fat": 6,
+    "carbs": 4,
+    "unit": "串(100g)"
+  },
+  "烤牛板筋": {
+    "calories": 100,
+    "protein": 14,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "串"
+  },
+  "羊肉卷": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 20,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "虾滑": {
+    "calories": 120,
+    "protein": 22,
+    "fat": 2,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "鱼丸": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "牛肉丸": {
+    "calories": 180,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "贡丸": {
+    "calories": 160,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "蟹棒": {
+    "calories": 100,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "午餐肉": {
+    "calories": 180,
+    "protein": 10,
+    "fat": 14,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "火腿肠": {
+    "calories": 160,
+    "protein": 8,
+    "fat": 12,
+    "carbs": 6,
+    "unit": "根"
+  },
+  "豆腐": {
+    "calories": 80,
+    "protein": 7,
+    "fat": 3,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "宽粉": {
+    "calories": 160,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 38,
+    "unit": "份(200g)"
+  },
+  "藕片": {
+    "calories": 80,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "冬瓜": {
+    "calories": 20,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "白萝卜": {
+    "calories": 20,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "金针菇": {
+    "calories": 30,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "香菇": {
+    "calories": 30,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "杏鲍菇": {
+    "calories": 40,
+    "protein": 3,
+    "fat": 0,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "平菇": {
+    "calories": 30,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "生菜": {
+    "calories": 15,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "菠菜": {
+    "calories": 25,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "茼蒿": {
+    "calories": 20,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "白菜": {
+    "calories": 15,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 3,
+    "unit": "份(100g)"
+  },
+  "油麦菜": {
+    "calories": 15,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "麻辣拌": {
+    "calories": 380,
+    "protein": 16,
+    "fat": 20,
+    "carbs": 34,
+    "unit": "份(400g)"
+  },
+  "串串香": {
+    "calories": 400,
+    "protein": 18,
+    "fat": 24,
+    "carbs": 32,
+    "unit": "份(400g)"
+  },
+  "钵钵鸡": {
+    "calories": 350,
+    "protein": 20,
+    "fat": 22,
+    "carbs": 22,
+    "unit": "份(400g)"
+  },
+  "冷锅串串": {
+    "calories": 340,
+    "protein": 18,
+    "fat": 20,
+    "carbs": 24,
+    "unit": "份(400g)"
+  },
+  "麻辣香锅": {
+    "calories": 500,
+    "protein": 24,
+    "fat": 32,
+    "carbs": 32,
+    "unit": "份(400g)"
+  },
+  "卤鸡翅": {
+    "calories": 200,
+    "protein": 20,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(4个)"
+  },
+  "卤鸡爪": {
+    "calories": 150,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "卤鸭脖": {
+    "calories": 180,
+    "protein": 16,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "卤鸭翅": {
+    "calories": 160,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "卤鸭肫": {
+    "calories": 120,
+    "protein": 18,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "卤豆干": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "卤藕": {
+    "calories": 60,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 12,
+    "unit": "份(100g)"
+  },
+  "卤海带": {
+    "calories": 30,
+    "protein": 2,
+    "fat": 1,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "卤花生": {
+    "calories": 150,
+    "protein": 6,
+    "fat": 10,
+    "carbs": 10,
+    "unit": "份(100g)"
+  },
+  "卤毛豆": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "份(150g)"
+  },
+  "卤猪耳": {
+    "calories": 200,
+    "protein": 14,
+    "fat": 14,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "卤牛肚": {
+    "calories": 150,
+    "protein": 20,
+    "fat": 6,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "卤牛舌": {
+    "calories": 220,
+    "protein": 22,
+    "fat": 14,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "烧鸡": {
+    "calories": 350,
+    "protein": 32,
+    "fat": 22,
+    "carbs": 6,
+    "unit": "份(250g)"
+  },
+  "叉烧": {
+    "calories": 300,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 14,
+    "unit": "份(200g)"
+  },
+  "酸梅汁": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "杯(300ml)"
+  },
+  "柠檬汁": {
+    "calories": 60,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 15,
+    "unit": "杯(300ml)"
+  },
+  "橙汁": {
+    "calories": 90,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 22,
+    "unit": "杯(300ml)"
+  },
+  "西瓜汁": {
+    "calories": 70,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 16,
+    "unit": "杯(300ml)"
+  },
+  "奶茶": {
+    "calories": 250,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 38,
+    "unit": "杯(500ml)"
+  },
+  "珍珠奶茶": {
+    "calories": 300,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 50,
+    "unit": "杯(500ml)"
+  },
+  "椰奶": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 6,
+    "carbs": 14,
+    "unit": "杯(300ml)"
+  },
+  "椰子水": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "杯(300ml)"
+  },
+  "可乐": {
+    "calories": 140,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 35,
+    "unit": "罐(330ml)"
+  },
+  "雪碧": {
+    "calories": 140,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 35,
+    "unit": "罐(330ml)"
+  },
+  "芬达": {
+    "calories": 120,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 30,
+    "unit": "罐(330ml)"
+  },
+  "矿泉水": {
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "unit": "瓶(500ml)"
+  },
+  "绿茶": {
+    "calories": 5,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "unit": "瓶(500ml)"
+  },
+  "红茶": {
+    "calories": 5,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "unit": "瓶(500ml)"
+  },
+  "乌龙茶": {
+    "calories": 5,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "unit": "瓶(500ml)"
+  },
+  "王老吉": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "罐(310ml)"
+  },
+  "加多宝": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "罐(310ml)"
+  },
+  "牛奶": {
+    "calories": 150,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 12,
+    "unit": "杯(250ml)"
+  },
+  "酸奶": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 16,
+    "unit": "杯(200g)"
+  },
+  "纯牛奶": {
+    "calories": 160,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 12,
+    "unit": "盒(250ml)"
+  },
+  "咖啡": {
+    "calories": 10,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 0,
+    "unit": "杯(300ml)"
+  },
+  "拿铁": {
+    "calories": 150,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 14,
+    "unit": "杯(350ml)"
+  },
+  "美式咖啡": {
+    "calories": 15,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "杯(350ml)"
+  },
+  "卡布奇诺": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 12,
+    "unit": "杯(350ml)"
+  },
+  "摩卡": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 12,
+    "carbs": 24,
+    "unit": "杯(350ml)"
+  },
+  "抹茶拿铁": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 24,
+    "unit": "杯(350ml)"
+  },
+  "星冰乐": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 40,
+    "unit": "杯(350ml)"
+  },
+  "双皮奶": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 22,
+    "unit": "碗(200g)"
+  },
+  "西米露": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 5,
+    "carbs": 28,
+    "unit": "杯(300ml)"
+  },
+  "冰粉": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "碗(250g)"
+  },
+  "冰凉粉": {
+    "calories": 100,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 25,
+    "unit": "碗(250g)"
+  },
+  "红豆沙": {
+    "calories": 150,
+    "protein": 5,
+    "fat": 2,
+    "carbs": 30,
+    "unit": "杯(300ml)"
+  },
+  "绿豆沙": {
+    "calories": 140,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 28,
+    "unit": "杯(300ml)"
+  },
+  "杂粮饮": {
+    "calories": 130,
+    "protein": 4,
+    "fat": 3,
+    "carbs": 24,
+    "unit": "杯(300ml)"
+  },
+  "杏仁露": {
+    "calories": 100,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 14,
+    "unit": "杯(300ml)"
+  },
+  "核桃露": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 5,
+    "carbs": 16,
+    "unit": "杯(300ml)"
+  },
+  "芝麻糊": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 24,
+    "unit": "碗(250g)"
+  },
+  "花生糊": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 22,
+    "unit": "碗(250g)"
+  },
+  "杏仁糊": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 22,
+    "unit": "碗(250g)"
+  },
+  "龟苓膏": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "碗(200g)"
+  },
+  "芒果布丁": {
+    "calories": 150,
+    "protein": 2,
+    "fat": 6,
+    "carbs": 22,
+    "unit": "份(150g)"
+  },
+  "杨枝甘露": {
+    "calories": 200,
+    "protein": 3,
+    "fat": 8,
+    "carbs": 30,
+    "unit": "碗(250g)"
+  },
+  "芒果西米露": {
+    "calories": 180,
+    "protein": 2,
+    "fat": 6,
+    "carbs": 30,
+    "unit": "碗(250g)"
+  },
+  "红豆冰": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 38,
+    "unit": "杯(300ml)"
+  },
+  "冰淇淋": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 22,
+    "unit": "球(100g)"
+  },
+  "巧克力冰淇淋": {
+    "calories": 240,
+    "protein": 4,
+    "fat": 16,
+    "carbs": 20,
+    "unit": "球(100g)"
+  },
+  "香草冰淇淋": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 22,
+    "unit": "球(100g)"
+  },
+  "抹茶冰淇淋": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 20,
+    "unit": "球(100g)"
+  },
+  "雪糕": {
+    "calories": 150,
+    "protein": 2,
+    "fat": 8,
+    "carbs": 18,
+    "unit": "根"
+  },
+  "蛋糕": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 34,
+    "unit": "块(100g)"
+  },
+  "芝士蛋糕": {
+    "calories": 320,
+    "protein": 8,
+    "fat": 20,
+    "carbs": 30,
+    "unit": "块(100g)"
+  },
+  "巧克力蛋糕": {
+    "calories": 350,
+    "protein": 6,
+    "fat": 18,
+    "carbs": 40,
+    "unit": "块(100g)"
+  },
+  "提拉米苏": {
+    "calories": 300,
+    "protein": 6,
+    "fat": 18,
+    "carbs": 30,
+    "unit": "块(100g)"
+  },
+  "泡芙": {
+    "calories": 240,
+    "protein": 4,
+    "fat": 16,
+    "carbs": 20,
+    "unit": "份(100g)"
+  },
+  "蛋挞": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 20,
+    "unit": "个"
+  },
+  "曲奇": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 22,
+    "unit": "份(100g)"
+  },
+  "马卡龙": {
+    "calories": 150,
+    "protein": 2,
+    "fat": 8,
+    "carbs": 18,
+    "unit": "个"
+  },
+  "布丁": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 20,
+    "unit": "份(150g)"
+  },
+  "果冻": {
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "份(100g)"
+  },
+  "苹果": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "个(200g)"
+  },
+  "香蕉": {
+    "calories": 100,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 24,
+    "unit": "根(120g)"
+  },
+  "橙子": {
+    "calories": 70,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 16,
+    "unit": "个(200g)"
+  },
+  "橘子": {
+    "calories": 50,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 12,
+    "unit": "个(150g)"
+  },
+  "西瓜": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "块(200g)"
+  },
+  "葡萄": {
+    "calories": 100,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 24,
+    "unit": "串(150g)"
+  },
+  "草莓": {
+    "calories": 50,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 12,
+    "unit": "份(150g)"
+  },
+  "蓝莓": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "份(100g)"
+  },
+  "芒果": {
+    "calories": 100,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 24,
+    "unit": "个(200g)"
+  },
+  "菠萝": {
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "份(200g)"
+  },
+  "猕猴桃": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "个(100g)"
+  },
+  "火龙果": {
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 18,
+    "unit": "个(200g)"
+  },
+  "木瓜": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "份(200g)"
+  },
+  "柿子": {
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 18,
+    "unit": "个(150g)"
+  },
+  "桃子": {
+    "calories": 70,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 16,
+    "unit": "个(200g)"
+  },
+  "荔枝": {
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 18,
+    "unit": "份(100g)"
+  },
+  "龙眼": {
+    "calories": 70,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 16,
+    "unit": "份(100g)"
+  },
+  "柚子": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "瓣(200g)"
+  },
+  "柠檬": {
+    "calories": 20,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "片(30g)"
+  },
+  "榴莲": {
+    "calories": 200,
+    "protein": 3,
+    "fat": 6,
+    "carbs": 34,
+    "unit": "瓣(100g)"
+  },
+  "山竹": {
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 18,
+    "unit": "个(100g)"
+  },
+  "椰子": {
+    "calories": 140,
+    "protein": 2,
+    "fat": 6,
+    "carbs": 16,
+    "unit": "个"
+  },
+  "哈密瓜": {
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 18,
+    "unit": "块(200g)"
+  },
+  "樱桃": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "份(100g)"
+  },
+  "汉堡": {
+    "calories": 350,
+    "protein": 18,
+    "fat": 16,
+    "carbs": 34,
+    "unit": "个"
+  },
+  "鸡肉汉堡": {
+    "calories": 380,
+    "protein": 22,
+    "fat": 16,
+    "carbs": 36,
+    "unit": "个"
+  },
+  "牛肉汉堡": {
+    "calories": 420,
+    "protein": 26,
+    "fat": 20,
+    "carbs": 36,
+    "unit": "个"
+  },
+  " cheeseburger": {
+    "calories": 440,
+    "protein": 28,
+    "fat": 22,
+    "carbs": 36,
+    "unit": "个"
+  },
+  "炸鸡翅": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(4个)"
+  },
+  "炸鸡块": {
+    "calories": 300,
+    "protein": 18,
+    "fat": 20,
+    "carbs": 14,
+    "unit": "份(150g)"
+  },
+  "薯条": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 14,
+    "carbs": 34,
+    "unit": "份(150g)"
+  },
+  "薯角": {
+    "calories": 260,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 32,
+    "unit": "份(150g)"
+  },
+  "洋葱圈": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 20,
+    "unit": "份(100g)"
+  },
+  "披萨": {
+    "calories": 300,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 34,
+    "unit": "块(150g)"
+  },
+  "玛格丽特披萨": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 34,
+    "unit": "块(150g)"
+  },
+  "夏威夷披萨": {
+    "calories": 300,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 34,
+    "unit": "块(150g)"
+  },
+  "牛肉披萨": {
+    "calories": 320,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 34,
+    "unit": "块(150g)"
+  },
+  "意大利面": {
+    "calories": 350,
+    "protein": 12,
+    "fat": 8,
+    "carbs": 58,
+    "unit": "份(350g)"
+  },
+  "沙拉": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 10,
+    "unit": "份(250g)"
+  },
+  "凯撒沙拉": {
+    "calories": 200,
+    "protein": 10,
+    "fat": 14,
+    "carbs": 10,
+    "unit": "份(250g)"
+  },
+  "蔬菜沙拉": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "份(250g)"
+  },
+  "金枪鱼沙拉": {
+    "calories": 200,
+    "protein": 18,
+    "fat": 12,
+    "carbs": 6,
+    "unit": "份(250g)"
+  },
+  "水果沙拉": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 26,
+    "unit": "份(250g)"
+  },
+  "俱乐部三明治": {
+    "calories": 350,
+    "protein": 18,
+    "fat": 16,
+    "carbs": 32,
+    "unit": "份"
+  },
+  "牛排": {
+    "calories": 400,
+    "protein": 36,
+    "fat": 28,
+    "carbs": 0,
+    "unit": "份(200g)"
+  },
+  "西冷牛排": {
+    "calories": 420,
+    "protein": 38,
+    "fat": 30,
+    "carbs": 0,
+    "unit": "份(200g)"
+  },
+  "菲力牛排": {
+    "calories": 380,
+    "protein": 40,
+    "fat": 24,
+    "carbs": 0,
+    "unit": "份(200g)"
+  },
+  "猪排": {
+    "calories": 380,
+    "protein": 26,
+    "fat": 24,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "烤鸡胸": {
+    "calories": 200,
+    "protein": 36,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "寿司": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 36,
+    "unit": "份(6个)"
+  },
+  "三文鱼寿司": {
+    "calories": 220,
+    "protein": 12,
+    "fat": 6,
+    "carbs": 32,
+    "unit": "份(6个)"
+  },
+  "金枪鱼寿司": {
+    "calories": 200,
+    "protein": 14,
+    "fat": 4,
+    "carbs": 30,
+    "unit": "份(6个)"
+  },
+  "鳗鱼寿司": {
+    "calories": 240,
+    "protein": 12,
+    "fat": 8,
+    "carbs": 32,
+    "unit": "份(6个)"
+  },
+  "加州卷": {
+    "calories": 220,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 32,
+    "unit": "份(6个)"
+  },
+  "刺身": {
+    "calories": 150,
+    "protein": 22,
+    "fat": 6,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "三文鱼刺身": {
+    "calories": 200,
+    "protein": 22,
+    "fat": 12,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "金枪鱼刺身": {
+    "calories": 160,
+    "protein": 24,
+    "fat": 6,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "天妇罗": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 18,
+    "carbs": 24,
+    "unit": "份(150g)"
+  },
+  "咖喱饭": {
+    "calories": 500,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 74,
+    "unit": "份(400g)"
+  },
+  "咖喱牛肉饭": {
+    "calories": 540,
+    "protein": 28,
+    "fat": 20,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "味噌拉面": {
+    "calories": 420,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 56,
+    "unit": "碗(450g)"
+  },
+  "豚骨拉面": {
+    "calories": 480,
+    "protein": 20,
+    "fat": 18,
+    "carbs": 58,
+    "unit": "碗(450g)"
+  },
+  "酱油拉面": {
+    "calories": 400,
+    "protein": 16,
+    "fat": 12,
+    "carbs": 54,
+    "unit": "碗(450g)"
+  },
+  "盐拉面": {
+    "calories": 380,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 54,
+    "unit": "碗(450g)"
+  },
+  "日式炒面": {
+    "calories": 400,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 56,
+    "unit": "份(350g)"
+  },
+  "章鱼烧": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 26,
+    "unit": "份(6个)"
+  },
+  "日式煎饺": {
+    "calories": 250,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 28,
+    "unit": "份(8个)"
+  },
+  "纳豆": {
+    "calories": 100,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "份(50g)"
+  },
+  "泡菜": {
+    "calories": 30,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "韩式泡菜": {
+    "calories": 30,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "石锅拌饭": {
+    "calories": 500,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 74,
+    "unit": "份(450g)"
+  },
+  "韩式拌饭": {
+    "calories": 480,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 74,
+    "unit": "份(450g)"
+  },
+  "大酱汤": {
+    "calories": 80,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 8,
+    "unit": "碗(250g)"
+  },
+  "韩式豆腐汤": {
+    "calories": 120,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 8,
+    "unit": "碗(300g)"
+  },
+  "泡菜汤": {
+    "calories": 100,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 12,
+    "unit": "碗(300g)"
+  },
+  "韩式烤肉": {
+    "calories": 350,
+    "protein": 28,
+    "fat": 24,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "炒年糕": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 48,
+    "unit": "份(300g)"
+  },
+  "韩式炸鸡": {
+    "calories": 340,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "紫菜包饭": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 34,
+    "unit": "份(6个)"
+  },
+  "冷面": {
+    "calories": 300,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 52,
+    "unit": "碗(400g)"
+  },
+  "重庆烤鱼": {
+    "calories": 350,
+    "protein": 30,
+    "fat": 22,
+    "carbs": 10,
+    "unit": "份(300g)"
+  },
+  "龙井虾仁": {
+    "calories": 140,
+    "protein": 22,
+    "fat": 4,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "叫花鸡": {
+    "calories": 300,
+    "protein": 30,
+    "fat": 16,
+    "carbs": 8,
+    "unit": "份(250g)"
+  },
+  "清炖蟹粉狮子头": {
+    "calories": 280,
+    "protein": 16,
+    "fat": 20,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "烧鹅": {
+    "calories": 380,
+    "protein": 22,
+    "fat": 30,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "虾饺": {
+    "calories": 180,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 24,
+    "unit": "份(4个)"
+  },
+  "酱骨架": {
+    "calories": 350,
+    "protein": 24,
+    "fat": 26,
+    "carbs": 4,
+    "unit": "份(300g)"
+  },
+  "猪肉炖粉条": {
+    "calories": 400,
+    "protein": 18,
+    "fat": 24,
+    "carbs": 30,
+    "unit": "份(350g)"
+  },
+  "小鸡炖蘑菇": {
+    "calories": 320,
+    "protein": 28,
+    "fat": 18,
+    "carbs": 12,
+    "unit": "份(300g)"
+  },
+  "酸菜炖排骨": {
+    "calories": 350,
+    "protein": 22,
+    "fat": 22,
+    "carbs": 14,
+    "unit": "份(350g)"
+  },
+  "东北大拉皮": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 28,
+    "unit": "份(250g)"
+  },
+  "涮羊肉": {
+    "calories": 350,
+    "protein": 28,
+    "fat": 24,
+    "carbs": 4,
+    "unit": "份(250g)"
+  },
+  "九转大肠": {
+    "calories": 350,
+    "protein": 16,
+    "fat": 28,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "葱烧海参": {
+    "calories": 200,
+    "protein": 18,
+    "fat": 10,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "糖醋鲤鱼": {
+    "calories": 280,
+    "protein": 26,
+    "fat": 12,
+    "carbs": 18,
+    "unit": "份(300g)"
+  },
+  "大盘鸡": {
+    "calories": 450,
+    "protein": 28,
+    "fat": 20,
+    "carbs": 40,
+    "unit": "份(400g)"
+  },
+  "羊肉泡馍": {
+    "calories": 500,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 50,
+    "unit": "碗(450g)"
+  },
+  "肉丸胡辣汤": {
+    "calories": 180,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 18,
+    "unit": "碗(300g)"
+  },
+  "周黑鸭": {
+    "calories": 200,
+    "protein": 18,
+    "fat": 14,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "辣椒炒肉": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "佛跳墙": {
+    "calories": 350,
+    "protein": 24,
+    "fat": 20,
+    "carbs": 16,
+    "unit": "份(300g)"
+  },
+  "沙茶面": {
+    "calories": 420,
+    "protein": 16,
+    "fat": 18,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "卤面": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 14,
+    "carbs": 56,
+    "unit": "碗(400g)"
+  },
+  "蚵仔煎": {
+    "calories": 220,
+    "protein": 12,
+    "fat": 12,
+    "carbs": 18,
+    "unit": "份(200g)"
+  },
+  "大肠包小肠": {
+    "calories": 350,
+    "protein": 14,
+    "fat": 20,
+    "carbs": 30,
+    "unit": "份"
+  },
+  "蚵仔面线": {
+    "calories": 300,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 38,
+    "unit": "碗(350g)"
+  },
+  "蛋包饭": {
+    "calories": 380,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 52,
+    "unit": "份(350g)"
+  },
+  "日式蛋包饭": {
+    "calories": 400,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 52,
+    "unit": "份(400g)"
+  },
+  "咖喱蛋包饭": {
+    "calories": 450,
+    "protein": 16,
+    "fat": 16,
+    "carbs": 58,
+    "unit": "份(400g)"
+  },
+  "芝士焗饭": {
+    "calories": 480,
+    "protein": 16,
+    "fat": 20,
+    "carbs": 56,
+    "unit": "份(400g)"
+  },
+  "番茄焗饭": {
+    "calories": 420,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 60,
+    "unit": "份(400g)"
+  },
+  "海鲜焗饭": {
+    "calories": 460,
+    "protein": 20,
+    "fat": 14,
+    "carbs": 58,
+    "unit": "份(400g)"
+  },
+  "咖喱焗饭": {
+    "calories": 480,
+    "protein": 16,
+    "fat": 18,
+    "carbs": 60,
+    "unit": "份(400g)"
+  },
+  "黄油炒饭": {
+    "calories": 420,
+    "protein": 8,
+    "fat": 16,
+    "carbs": 58,
+    "unit": "份(350g)"
+  },
+  "蒜蓉炒饭": {
+    "calories": 380,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 60,
+    "unit": "份(350g)"
+  },
+  "蔬菜炒饭": {
+    "calories": 350,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 60,
+    "unit": "份(350g)"
+  },
+  "玉米粒炒饭": {
+    "calories": 380,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 64,
+    "unit": "份(350g)"
+  },
+  "蓝莓山药": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 24,
+    "unit": "份(150g)"
+  },
+  "蜜汁莲藕": {
+    "calories": 140,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 30,
+    "unit": "份(150g)"
+  },
+  "桂花糯米藕": {
+    "calories": 180,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 38,
+    "unit": "份(150g)"
+  },
+  "凉拌萝卜丝": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 1,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "拌三丝": {
+    "calories": 60,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 8,
+    "unit": "份(150g)"
+  },
+  "凉拌腐竹": {
+    "calories": 140,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "凉拌面筋": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 16,
+    "unit": "份(150g)"
+  },
+  "凉拌猪耳": {
+    "calories": 200,
+    "protein": 14,
+    "fat": 14,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "凉拌猪头肉": {
+    "calories": 240,
+    "protein": 14,
+    "fat": 18,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "酱肘子": {
+    "calories": 350,
+    "protein": 22,
+    "fat": 28,
+    "carbs": 2,
+    "unit": "份(200g)"
+  },
+  "榨菜": {
+    "calories": 20,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(30g)"
+  },
+  "萝卜干": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "份(30g)"
+  },
+  "泡萝卜": {
+    "calories": 20,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(50g)"
+  },
+  "腌黄瓜": {
+    "calories": 15,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "份(50g)"
+  },
+  "酸豆角": {
+    "calories": 25,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(50g)"
+  },
+  "雪菜": {
+    "calories": 20,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(50g)"
+  },
+  "腐乳": {
+    "calories": 20,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 0,
+    "unit": "块"
+  },
+  "老干妈": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 6,
+    "carbs": 2,
+    "unit": "份(15g)"
+  },
+  "辣椒酱": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 2,
+    "carbs": 2,
+    "unit": "份(15g)"
+  },
+  "甜面酱": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "份(15g)"
+  },
+  "番茄酱": {
+    "calories": 20,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "份(15g)"
+  },
+  "沙拉酱": {
+    "calories": 60,
+    "protein": 0,
+    "fat": 6,
+    "carbs": 2,
+    "unit": "份(15g)"
+  },
+  "芝麻酱": {
+    "calories": 60,
+    "protein": 2,
+    "fat": 6,
+    "carbs": 2,
+    "unit": "份(15g)"
+  },
+  "花生酱": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 6,
+    "carbs": 4,
+    "unit": "份(15g)"
+  },
+  "牛肉": {
+    "calories": 250,
+    "protein": 30,
+    "fat": 14,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "羊肉": {
+    "calories": 280,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "鸡肉": {
+    "calories": 200,
+    "protein": 28,
+    "fat": 8,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "鸭肉": {
+    "calories": 260,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "五花肉": {
+    "calories": 350,
+    "protein": 14,
+    "fat": 32,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "瘦肉": {
+    "calories": 200,
+    "protein": 28,
+    "fat": 8,
+    "carbs": 0,
+    "unit": "份(150g)"
+  },
+  "猪肝": {
+    "calories": 130,
+    "protein": 20,
+    "fat": 4,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "猪腰": {
+    "calories": 100,
+    "protein": 16,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "猪大肠": {
+    "calories": 200,
+    "protein": 12,
+    "fat": 16,
+    "carbs": 2,
+    "unit": "份(100g)"
+  },
+  "虾仁": {
+    "calories": 80,
+    "protein": 18,
+    "fat": 1,
+    "carbs": 0,
+    "unit": "份(100g)"
+  },
+  "螃蟹": {
+    "calories": 140,
+    "protein": 22,
+    "fat": 4,
+    "carbs": 2,
+    "unit": "份(2只)"
+  },
+  "蛤蜊": {
+    "calories": 60,
+    "protein": 10,
+    "fat": 1,
+    "carbs": 2,
+    "unit": "份(150g)"
+  },
+  "蛏子": {
+    "calories": 80,
+    "protein": 12,
+    "fat": 2,
+    "carbs": 4,
+    "unit": "份(150g)"
+  },
+  "毛豆": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "份(150g)"
+  },
+  "花生": {
+    "calories": 150,
+    "protein": 6,
+    "fat": 10,
+    "carbs": 10,
+    "unit": "份(100g)"
+  },
+  "瓜子": {
+    "calories": 160,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 4,
+    "unit": "份(50g)"
+  },
+  "核桃": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 18,
+    "carbs": 6,
+    "unit": "份(50g)"
+  },
+  "腰果": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 10,
+    "unit": "份(50g)"
+  },
+  "杏仁": {
+    "calories": 160,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 6,
+    "unit": "份(50g)"
+  },
+  "开心果": {
+    "calories": 170,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 8,
+    "unit": "份(50g)"
+  },
+  "松子": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 18,
+    "carbs": 6,
+    "unit": "份(50g)"
+  },
+  "烤红薯": {
+    "calories": 200,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 46,
+    "unit": "个(250g)"
+  },
+  "煮花生": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "份(150g)"
+  },
+  "盐水毛豆": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "份(150g)"
+  },
+  "糖炒栗子": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 36,
+    "unit": "份(100g)"
+  },
+  "烤地瓜": {
+    "calories": 200,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 46,
+    "unit": "个(250g)"
+  },
+  "蒸红薯": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 36,
+    "unit": "个(200g)"
+  },
+  "蒸紫薯": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 1,
+    "carbs": 38,
+    "unit": "个(200g)"
+  },
+  "蒸山药": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 20,
+    "unit": "份(150g)"
+  },
+  "蒸芋头": {
+    "calories": 140,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 30,
+    "unit": "份(150g)"
+  },
+  "糖葫芦": {
+    "calories": 150,
+    "protein": 1,
+    "fat": 2,
+    "carbs": 34,
+    "unit": "串"
+  },
+  "龙须糖": {
+    "calories": 200,
+    "protein": 2,
+    "fat": 4,
+    "carbs": 40,
+    "unit": "份(100g)"
+  },
+  "花生糖": {
+    "calories": 250,
+    "protein": 6,
+    "fat": 12,
+    "carbs": 32,
+    "unit": "份(100g)"
+  },
+  "芝麻糖": {
+    "calories": 240,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 34,
+    "unit": "份(100g)"
+  },
+  "牛皮糖": {
+    "calories": 200,
+    "protein": 2,
+    "fat": 4,
+    "carbs": 40,
+    "unit": "份(100g)"
+  },
+  "麦芽糖": {
+    "calories": 200,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 48,
+    "unit": "份(50g)"
+  },
+  "姜糖": {
+    "calories": 180,
+    "protein": 1,
+    "fat": 2,
+    "carbs": 40,
+    "unit": "份(100g)"
+  },
+  "棉花糖": {
+    "calories": 100,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 24,
+    "unit": "份(50g)"
+  },
+  "牛轧糖": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 30,
+    "unit": "份(100g)"
+  },
+  "奶片": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 36,
+    "unit": "份(50g)"
+  },
+  "烧仙草": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 20,
+    "unit": "杯(300ml)"
+  },
+  "仙草蜜": {
+    "calories": 100,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 22,
+    "unit": "杯(300ml)"
+  },
+  "豆花": {
+    "calories": 80,
+    "protein": 5,
+    "fat": 3,
+    "carbs": 8,
+    "unit": "碗(250g)"
+  },
+  "甜豆花": {
+    "calories": 100,
+    "protein": 5,
+    "fat": 2,
+    "carbs": 16,
+    "unit": "碗(250g)"
+  },
+  "咸豆花": {
+    "calories": 80,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "锅巴": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 30,
+    "unit": "份(100g)"
+  },
+  "米花糖": {
+    "calories": 180,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 34,
+    "unit": "份(100g)"
+  },
+  "老婆饼": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "老公饼": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "蛋黄酥": {
+    "calories": 250,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 26,
+    "unit": "个"
+  },
+  "绿豆饼": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "红豆饼": {
+    "calories": 190,
+    "protein": 5,
+    "fat": 6,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "芋头酥": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 26,
+    "unit": "个"
+  },
+  "凤梨酥": {
+    "calories": 200,
+    "protein": 3,
+    "fat": 8,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "太阳饼": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 26,
+    "unit": "个"
+  },
+  "奶油蛋糕": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 14,
+    "carbs": 34,
+    "unit": "块(100g)"
+  },
+  "蜂蜜蛋糕": {
+    "calories": 240,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 38,
+    "unit": "块(100g)"
+  },
+  "戚风蛋糕": {
+    "calories": 260,
+    "protein": 6,
+    "fat": 12,
+    "carbs": 34,
+    "unit": "块(100g)"
+  },
+  "瑞士卷": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 30,
+    "unit": "块(100g)"
+  },
+  "肉松面包": {
+    "calories": 280,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 34,
+    "unit": "个"
+  },
+  "热狗面包": {
+    "calories": 280,
+    "protein": 10,
+    "fat": 14,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "汉堡包": {
+    "calories": 350,
+    "protein": 18,
+    "fat": 16,
+    "carbs": 34,
+    "unit": "个"
+  },
+  "鸡肉卷": {
+    "calories": 300,
+    "protein": 16,
+    "fat": 14,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "牛肉卷": {
+    "calories": 320,
+    "protein": 20,
+    "fat": 16,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "蔬菜卷": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "胡辣汤": {
+    "calories": 150,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 18,
+    "unit": "碗(300g)"
+  },
+  "疙瘩汤": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 18,
+    "unit": "碗(300g)"
+  },
+  "面疙瘩汤": {
+    "calories": 130,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 20,
+    "unit": "碗(300g)"
+  },
+  "鱼头豆腐汤": {
+    "calories": 140,
+    "protein": 14,
+    "fat": 6,
+    "carbs": 6,
+    "unit": "碗(300g)"
+  },
+  "鲫鱼豆腐汤": {
+    "calories": 130,
+    "protein": 16,
+    "fat": 4,
+    "carbs": 6,
+    "unit": "碗(300g)"
+  },
+  "冬瓜汤": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "黄瓜汤": {
+    "calories": 25,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "碗(250g)"
+  },
+  "丝瓜汤": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "番茄汤": {
+    "calories": 40,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 8,
+    "unit": "碗(250g)"
+  },
+  "菠菜汤": {
+    "calories": 35,
+    "protein": 3,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "碗(250g)"
+  },
+  "白菜豆腐汤": {
+    "calories": 40,
+    "protein": 4,
+    "fat": 1,
+    "carbs": 4,
+    "unit": "碗(250g)"
+  },
+  "萝卜汤": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 6,
+    "unit": "碗(250g)"
+  },
+  "海带汤": {
+    "calories": 30,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 4,
+    "unit": "碗(250g)"
+  },
+  "莲子汤": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 16,
+    "unit": "碗(250g)"
+  },
+  "百合汤": {
+    "calories": 70,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 16,
+    "unit": "碗(250g)"
+  },
+  "薏米汤": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 1,
+    "carbs": 20,
+    "unit": "碗(250g)"
+  },
+  "红枣汤": {
+    "calories": 80,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 18,
+    "unit": "碗(250g)"
+  },
+  "牛筋丸": {
+    "calories": 200,
+    "protein": 14,
+    "fat": 14,
+    "carbs": 4,
+    "unit": "份(100g)"
+  },
+  "蟹籽丸": {
+    "calories": 140,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "龙虾丸": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "包心丸": {
+    "calories": 160,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "墨鱼丸": {
+    "calories": 110,
+    "protein": 12,
+    "fat": 4,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "芝士丸": {
+    "calories": 160,
+    "protein": 8,
+    "fat": 12,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "香菇贡丸": {
+    "calories": 140,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "玉米肠": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "根"
+  },
+  "脆皮肠": {
+    "calories": 140,
+    "protein": 6,
+    "fat": 10,
+    "carbs": 6,
+    "unit": "根"
+  },
+  "开花肠": {
+    "calories": 130,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "根"
+  },
+  "亲亲肠": {
+    "calories": 120,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 6,
+    "unit": "份(100g)"
+  },
+  "燕饺": {
+    "calories": 140,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "蛋饺": {
+    "calories": 160,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "鱼饺": {
+    "calories": 140,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "份(100g)"
+  },
+  "火腿片": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 4,
+    "unit": "片(50g)"
+  },
+  "培根": {
+    "calories": 180,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 2,
+    "unit": "份(50g)"
+  },
+  "香肠": {
+    "calories": 200,
+    "protein": 10,
+    "fat": 16,
+    "carbs": 4,
+    "unit": "根"
+  },
+  "腊肠": {
+    "calories": 220,
+    "protein": 12,
+    "fat": 16,
+    "carbs": 6,
+    "unit": "根"
+  },
+  "鱼香茄子饭": {
+    "calories": 460,
+    "protein": 10,
+    "fat": 16,
+    "carbs": 64,
+    "unit": "份(500g)"
+  },
+  "红烧排骨饭": {
+    "calories": 560,
+    "protein": 26,
+    "fat": 28,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "可乐鸡翅饭": {
+    "calories": 540,
+    "protein": 26,
+    "fat": 20,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "孜然牛肉饭": {
+    "calories": 560,
+    "protein": 30,
+    "fat": 22,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "水煮肉片饭": {
+    "calories": 560,
+    "protein": 24,
+    "fat": 30,
+    "carbs": 56,
+    "unit": "份(500g)"
+  },
+  "酸菜鱼饭": {
+    "calories": 500,
+    "protein": 26,
+    "fat": 12,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "红烧鱼块饭": {
+    "calories": 480,
+    "protein": 28,
+    "fat": 14,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "剁椒鱼头饭": {
+    "calories": 500,
+    "protein": 26,
+    "fat": 16,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "香菇滑鸡饭": {
+    "calories": 500,
+    "protein": 28,
+    "fat": 14,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "豉汁排骨饭": {
+    "calories": 520,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "叉烧饭": {
+    "calories": 540,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "烧鸭饭": {
+    "calories": 540,
+    "protein": 22,
+    "fat": 26,
+    "carbs": 58,
+    "unit": "份(500g)"
+  },
+  "白切鸡饭": {
+    "calories": 480,
+    "protein": 28,
+    "fat": 16,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "油鸡饭": {
+    "calories": 500,
+    "protein": 28,
+    "fat": 18,
+    "carbs": 60,
+    "unit": "份(500g)"
+  },
+  "海南鸡饭": {
+    "calories": 520,
+    "protein": 28,
+    "fat": 18,
+    "carbs": 62,
+    "unit": "份(500g)"
+  },
+  "红薯粉": {
+    "calories": 180,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 42,
+    "unit": "份(200g)"
+  },
+  "土豆粉": {
+    "calories": 200,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 46,
+    "unit": "份(200g)"
+  },
+  "螺蛳粉(自煮)": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 48,
+    "unit": "份(350g)"
+  },
+  "过桥米线": {
+    "calories": 420,
+    "protein": 18,
+    "fat": 14,
+    "carbs": 52,
+    "unit": "碗(500g)"
+  },
+  "桂林米粉": {
+    "calories": 380,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 58,
+    "unit": "碗(400g)"
+  },
+  "南昌拌粉": {
+    "calories": 360,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 52,
+    "unit": "碗(350g)"
+  },
+  "湖南米粉": {
+    "calories": 380,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "绵阳米粉": {
+    "calories": 340,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 50,
+    "unit": "碗(350g)"
+  },
+  "云南米线": {
+    "calories": 380,
+    "protein": 12,
+    "fat": 12,
+    "carbs": 54,
+    "unit": "碗(400g)"
+  },
+  "花甲粉": {
+    "calories": 350,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 48,
+    "unit": "碗(400g)"
+  },
+  "鸭血粉丝汤": {
+    "calories": 350,
+    "protein": 16,
+    "fat": 12,
+    "carbs": 42,
+    "unit": "碗(400g)"
+  },
+  "鱼粉": {
+    "calories": 360,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 50,
+    "unit": "碗(400g)"
+  },
+  "水晶包": {
+    "calories": 160,
+    "protein": 5,
+    "fat": 4,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "水煎包": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 22,
+    "unit": "份(4个)"
+  },
+  "杂粮煎饼": {
+    "calories": 320,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 44,
+    "unit": "个"
+  },
+  "掉渣饼": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 12,
+    "carbs": 34,
+    "unit": "个"
+  },
+  "鸡蛋饼": {
+    "calories": 240,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "蔬菜饼": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 26,
+    "unit": "个"
+  },
+  "玉米饼": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 34,
+    "unit": "个"
+  },
+  "干锅": {
+    "calories": 400,
+    "protein": 20,
+    "fat": 24,
+    "carbs": 28,
+    "unit": "份(350g)"
+  },
+  "干锅千页豆腐": {
+    "calories": 260,
+    "protein": 14,
+    "fat": 16,
+    "carbs": 18,
+    "unit": "份(250g)"
+  },
+  "干锅土豆": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 18,
+    "carbs": 24,
+    "unit": "份(250g)"
+  },
+  "干锅包菜": {
+    "calories": 150,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 12,
+    "unit": "份(200g)"
+  },
+  "铁板茄子": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 16,
+    "unit": "份(200g)"
+  },
+  "蛋黄南瓜": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 22,
+    "unit": "份(200g)"
+  },
+  "咸蛋黄焗南瓜": {
+    "calories": 200,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 22,
+    "unit": "份(200g)"
+  },
+  "咸蛋黄焗鸡翅": {
+    "calories": 300,
+    "protein": 22,
+    "fat": 20,
+    "carbs": 6,
+    "unit": "份(4个)"
+  },
+  "香辣肉丝": {
+    "calories": 280,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "麻辣肉片": {
+    "calories": 340,
+    "protein": 24,
+    "fat": 24,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "藤椒鸡": {
+    "calories": 280,
+    "protein": 26,
+    "fat": 16,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "花椒鸡": {
+    "calories": 290,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "葱姜鸡": {
+    "calories": 240,
+    "protein": 26,
+    "fat": 12,
+    "carbs": 6,
+    "unit": "份(200g)"
+  },
+  "沙姜鸡": {
+    "calories": 250,
+    "protein": 26,
+    "fat": 14,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "豆角焖面": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 14,
+    "carbs": 56,
+    "unit": "份(400g)"
+  },
+  "扁豆焖面": {
+    "calories": 380,
+    "protein": 12,
+    "fat": 12,
+    "carbs": 56,
+    "unit": "份(400g)"
+  },
+  "蒸蛋": {
+    "calories": 100,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 3,
+    "unit": "份(150g)"
+  },
+  "肉末蒸蛋": {
+    "calories": 160,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "蛤蜊蒸蛋": {
+    "calories": 120,
+    "protein": 12,
+    "fat": 6,
+    "carbs": 4,
+    "unit": "份(200g)"
+  },
+  "剁椒蒸豆腐": {
+    "calories": 140,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "蒜蓉蒸茄子": {
+    "calories": 70,
+    "protein": 3,
+    "fat": 3,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "蒜蓉蒸金针菇": {
+    "calories": 60,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "蒜蓉蒸丝瓜": {
+    "calories": 50,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 8,
+    "unit": "份(200g)"
+  },
+  "剁椒蒸芋头": {
+    "calories": 160,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 26,
+    "unit": "份(200g)"
+  },
+  "粉蒸牛肉": {
+    "calories": 360,
+    "protein": 24,
+    "fat": 22,
+    "carbs": 10,
+    "unit": "份(200g)"
+  },
+  "荷叶糯米鸡": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 10,
+    "carbs": 36,
+    "unit": "个"
+  },
+  "花雕鸡": {
+    "calories": 300,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 6,
+    "unit": "份(250g)"
+  },
+  "汽锅鸡": {
+    "calories": 220,
+    "protein": 24,
+    "fat": 10,
+    "carbs": 8,
+    "unit": "份(300g)"
+  },
+  "椰子鸡": {
+    "calories": 280,
+    "protein": 24,
+    "fat": 16,
+    "carbs": 12,
+    "unit": "份(300g)"
+  },
+  "猪肚鸡": {
+    "calories": 320,
+    "protein": 26,
+    "fat": 18,
+    "carbs": 14,
+    "unit": "份(350g)"
+  },
+  "肥肠鸡": {
+    "calories": 380,
+    "protein": 22,
+    "fat": 28,
+    "carbs": 10,
+    "unit": "份(350g)"
+  },
+  "柴火鸡": {
+    "calories": 350,
+    "protein": 28,
+    "fat": 20,
+    "carbs": 14,
+    "unit": "份(350g)"
+  },
+  "鸡胸肉沙拉": {
+    "calories": 200,
+    "protein": 30,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "份(300g)"
+  },
+  "虾仁沙拉": {
+    "calories": 180,
+    "protein": 22,
+    "fat": 4,
+    "carbs": 12,
+    "unit": "份(300g)"
+  },
+  "牛肉沙拉": {
+    "calories": 240,
+    "protein": 26,
+    "fat": 12,
+    "carbs": 8,
+    "unit": "份(300g)"
+  },
+  "牛油果沙拉": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 22,
+    "carbs": 12,
+    "unit": "份(300g)"
+  },
+  "田园沙拉": {
+    "calories": 100,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 10,
+    "unit": "份(250g)"
+  },
+  "藜麦沙拉": {
+    "calories": 240,
+    "protein": 8,
+    "fat": 8,
+    "carbs": 36,
+    "unit": "份(300g)"
+  },
+  "荞麦面沙拉": {
+    "calories": 280,
+    "protein": 10,
+    "fat": 6,
+    "carbs": 48,
+    "unit": "份(350g)"
+  },
+  "全麦三明治": {
+    "calories": 260,
+    "protein": 12,
+    "fat": 8,
+    "carbs": 34,
+    "unit": "份"
+  },
+  "鸡肉全麦三明治": {
+    "calories": 300,
+    "protein": 20,
+    "fat": 8,
+    "carbs": 36,
+    "unit": "份"
+  },
+  "蔬菜三明治": {
+    "calories": 220,
+    "protein": 8,
+    "fat": 6,
+    "carbs": 34,
+    "unit": "份"
+  },
+  "藜麦饭": {
+    "calories": 260,
+    "protein": 8,
+    "fat": 4,
+    "carbs": 48,
+    "unit": "碗(200g)"
+  },
+  "燕麦片": {
+    "calories": 150,
+    "protein": 6,
+    "fat": 4,
+    "carbs": 26,
+    "unit": "份(40g)"
+  },
+  "牛奶燕麦": {
+    "calories": 250,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 34,
+    "unit": "碗(300g)"
+  },
+  "水果燕麦": {
+    "calories": 240,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 42,
+    "unit": "碗(300g)"
+  },
+  "冰咖啡": {
+    "calories": 10,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 0,
+    "unit": "杯(300ml)"
+  },
+  "冰拿铁": {
+    "calories": 130,
+    "protein": 6,
+    "fat": 6,
+    "carbs": 14,
+    "unit": "杯(350ml)"
+  },
+  "冰美式": {
+    "calories": 15,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "杯(350ml)"
+  },
+  "冰摩卡": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 10,
+    "carbs": 24,
+    "unit": "杯(350ml)"
+  },
+  "冰抹茶拿铁": {
+    "calories": 160,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 24,
+    "unit": "杯(350ml)"
+  },
+  "热巧克力": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 24,
+    "unit": "杯(350ml)"
+  },
+  "焦糖玛奇朵": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 30,
+    "unit": "杯(350ml)"
+  },
+  "香草拿铁": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 22,
+    "unit": "杯(350ml)"
+  },
+  "榛果拿铁": {
+    "calories": 190,
+    "protein": 6,
+    "fat": 8,
+    "carbs": 24,
+    "unit": "杯(350ml)"
+  },
+  "抹茶": {
+    "calories": 10,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "杯(300ml)"
+  },
+  "玄米茶": {
+    "calories": 5,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "杯(300ml)"
+  },
+  "大麦茶": {
+    "calories": 5,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 2,
+    "unit": "杯(300ml)"
+  },
+  "蜂蜜柚子茶": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "杯(300ml)"
+  },
+  "蜂蜜柠檬茶": {
+    "calories": 60,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "杯(300ml)"
+  },
+  "金桔柠檬": {
+    "calories": 60,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "杯(300ml)"
+  },
+  "百香果绿茶": {
+    "calories": 70,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 16,
+    "unit": "杯(300ml)"
+  },
+  "冰红茶": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "杯(300ml)"
+  },
+  "冰绿茶": {
+    "calories": 60,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "杯(300ml)"
+  },
+  "运动饮料": {
+    "calories": 60,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 16,
+    "unit": "瓶(500ml)"
+  },
+  "功能饮料": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 20,
+    "unit": "瓶(500ml)"
+  },
+  "气泡水": {
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "unit": "瓶(500ml)"
+  },
+  "苏打水": {
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "unit": "瓶(500ml)"
+  },
+  "驴打滚": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 38,
+    "unit": "份(100g)"
+  },
+  "豌豆黄": {
+    "calories": 140,
+    "protein": 4,
+    "fat": 2,
+    "carbs": 28,
+    "unit": "份(100g)"
+  },
+  "艾窝窝": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 4,
+    "carbs": 38,
+    "unit": "份(100g)"
+  },
+  "糖耳朵": {
+    "calories": 260,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 40,
+    "unit": "个"
+  },
+  "萨琪玛": {
+    "calories": 250,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 34,
+    "unit": "份(100g)"
+  },
+  "蜜三刀": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 14,
+    "carbs": 36,
+    "unit": "份(100g)"
+  },
+  "桃酥": {
+    "calories": 240,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 30,
+    "unit": "份(100g)"
+  },
+  "蛋黄莲蓉月饼": {
+    "calories": 350,
+    "protein": 6,
+    "fat": 16,
+    "carbs": 46,
+    "unit": "个(100g)"
+  },
+  "五仁月饼": {
+    "calories": 380,
+    "protein": 8,
+    "fat": 16,
+    "carbs": 52,
+    "unit": "个(100g)"
+  },
+  "冰皮月饼": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 44,
+    "unit": "个(100g)"
+  },
+  "豆沙月饼": {
+    "calories": 320,
+    "protein": 6,
+    "fat": 12,
+    "carbs": 50,
+    "unit": "个(100g)"
+  },
+  "鲜肉月饼": {
+    "calories": 300,
+    "protein": 10,
+    "fat": 16,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "麻团": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "芝麻球": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 28,
+    "unit": "个"
+  },
+  "炸麻球": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 30,
+    "unit": "个"
+  },
+  "芋圆": {
+    "calories": 160,
+    "protein": 2,
+    "fat": 4,
+    "carbs": 30,
+    "unit": "碗(200g)"
+  },
+  "珍珠": {
+    "calories": 100,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 24,
+    "unit": "份(50g)"
+  },
+  "椰果": {
+    "calories": 60,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 14,
+    "unit": "份(50g)"
+  },
+  "仙草冻": {
+    "calories": 40,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "爱玉冻": {
+    "calories": 30,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 8,
+    "unit": "份(100g)"
+  },
+  "布丁奶茶": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 44,
+    "unit": "杯(500ml)"
+  }
+}

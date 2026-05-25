@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+generate_nutrition_db.py
+test_api.py
+.git
+.gitignore
+*.md
+.env

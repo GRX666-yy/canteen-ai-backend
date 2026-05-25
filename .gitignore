@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+generate_nutrition_db.py
+.env
+.git
+*.md
